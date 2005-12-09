@@ -1,0 +1,96 @@
+<!DOCTYPE metadata SYSTEM "lexicon-metadata.dtd">
+<metadata fileid="appraisalstuff">
+   <domain name="appraisal"/>
+
+   <attribute domain="appraisal" name="attitude" type="taxonomy">
+      <!-- allowed operatins include:
+	 generalize
+	 set
+      -->
+      <value name="attitude">
+	 <value name="affect">
+	    <!-- how do I feel? The word describes an emotion -->
+	 </value>
+	 <value name="appreciation">
+	    <value name="composition">
+	       <value name="complexity">
+		  <!-- was it hard to follow, having to do with its 
+		  number of parts? -->
+	       </value>
+	       <value name="balance">
+		  <!-- did it hang together? -->
+	       </value>
+	    </value>
+	    <value name="reaction">
+	       <value name="impact">
+		  <!-- effect on somebody interacting with 
+		  it/interacting in a context.
+		  did it grab me? -->
+	       </value>
+	       <value name="quality">
+		  <!-- how good the thing is at what it is. did I like 
+		  it? how nice is it? -->
+	       </value>
+	    </value>
+	    <value name="valuation">
+	       <!-- the importance or significance of a thing. was it 
+	       worthwhile? -->
+	    </value>
+	 </value>
+	 <value name="judgement">
+	    <value name="social-esteem">
+	       <value name="tenacity">
+		  <!-- willingness to put forth effort. how dependable? -->
+	       </value>
+	       <value name="normality">
+		  <!-- how someone fits in society. how special? -->
+	       </value>
+	       <value name="capacity">
+		  <!-- ability to get results. how capable? -->
+	       </value>
+	    </value>
+	    <value name="social-sanction">
+	       <value name="propriety">
+		  <!--nice/nasty. how far beyond reproach? -->
+	       </value>
+	       <value name="veracity">
+		  <!-- how honest? -->
+	       </value>
+	    </value>
+	 </value>
+      </value>
+   </attribute>
+   <attribute domain="appraisal" name="force" type="cline">
+      <!-- operations allowed include:
+	 minimize
+	 maximize
+	 flip (referred to in the paper as reverse and negate)
+	 increase (but not to maximum)
+	 decrease (but not to minimum)
+	 set
+      -->
+      <maximum name="max"/>
+      <intermediate name="very high"/>
+      <intermediate name="high"/>
+      <flippoint name="neutral"/>
+      <intermediate name="low"/>
+      <intermediate name="very low"/>
+      <minimum name="min"/>
+   </attribute>
+   <attribute domain="appraisal" name="polarity" type="cline">
+      <intermediate name="unmarked"/>
+      <flippoint />
+      <intermediate name="marked"/>
+   </attribute>
+   <attribute domain="appraisal" name="orientation" type="cline">
+      <intermediate name="positive"/>
+      <flippoint name="neutral"/>
+      <intermediate name="negative"/>
+   </attribute>
+   <attribute domain="appraisal" name="focus" type="cline">
+      <intermediate name="sharp"/>
+      <flippoint name="neutral"/>
+      <intermediate name="soft"/>
+   </attribute>
+</metadata>
+
