@@ -4,6 +4,7 @@
    <domain name="products"/>
 
    <attribute name="appraisedtype" domain="movies" type="taxonomy">
+      <value name="appraised-root">
       <value name="movie-thing">
 	 <value name="movie">
 	    <value name="this-movie"/>
@@ -31,6 +32,15 @@
 	    <value name="other-company"/>
 	 </value>
 	 <value name="marketing"/>
+      </value>
+      <value name="reference">
+	 <value name="3rdperson"/>
+	 <value name="deictic"/>
+      </value>
+      <value name="interactant">
+	 <value name="1stperson"/>
+	 <value name="2ndperson"/>
+      </value>
       </value>
    </attribute>
 

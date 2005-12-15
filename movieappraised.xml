@@ -686,12 +686,6 @@
       </entry>
    </lexeme>
    <lexeme>
-      <phrase>this</phrase>
-      <entry domain="movies">
-         <base att="appraisedtype" value="this-movie"/>
-      </entry>
-   </lexeme>
-   <lexeme>
       <phrase>this one</phrase>
       <entry domain="movies">
          <base att="appraisedtype" value="this-movie"/>
@@ -755,6 +749,106 @@
       <phrase>writing</phrase>
       <entry domain="movies">
          <base att="appraisedtype" value="writer"/>
+      </entry>
+   </lexeme>
+
+   <lexeme>
+      <phrase>this</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="deictic"/>
+      </entry>
+   </lexeme>
+
+   <lexeme>
+      <phrase>that</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="deictic"/>
+      </entry>
+   </lexeme>
+
+   <lexeme>
+      <phrase>these</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="deictic"/>
+      </entry>
+   </lexeme>
+
+   <lexeme>
+      <phrase>those</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="deictic"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>he</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>she</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>her</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>him</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>it</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>they</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>them</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>I</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="1stperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>we</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="1stperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>us</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="1stperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>me</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="1stperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>you</phrase>
+      <entry domain="movies">
+	 <base att="appraisedtype" value="2ndperson"/>
       </entry>
    </lexeme>
 </lexicon>
