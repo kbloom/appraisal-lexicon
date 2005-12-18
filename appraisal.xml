@@ -8139,19 +8139,6 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>just</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="propriety"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>kind</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -15780,19 +15767,6 @@
   </lexeme>
   <lexeme>
     <phrase>proportionate</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="balance"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>even</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
