@@ -22155,9 +22155,6 @@
   <lexeme>
     <phrase>n't</phrase>
     <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
       <modify att="orientation" type="flip"/>
       <set att="polarity" value="marked"/>
       <modify att="force" type="flip"/>
@@ -22165,6 +22162,12 @@
   </lexeme>
   <lexeme>
     <phrase>sort of</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos/>
+      </constraints>
+      <modify att="focus" type="decrease"/>
+    </entry>
   </lexeme>
   <lexeme>
     <phrase>sure</phrase>
@@ -22177,6 +22180,12 @@
   </lexeme>
   <lexeme>
     <phrase>kind of</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos/>
+      </constraints>
+      <modify att="focus" type="decrease"/>
+    </entry>
   </lexeme>
   <lexeme>
     <phrase>I know</phrase>
@@ -22266,7 +22275,7 @@
     <phrase>occasionally</phrase>
   </lexeme>
   <lexeme>
-    <phrase>so - so</phrase>
+    <phrase>so-so</phrase>
   </lexeme>
   <lexeme>
     <phrase>personally</phrase>
@@ -22531,7 +22540,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>true - blue</phrase>
+    <phrase>true-blue</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22544,7 +22553,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>fly - by - night</phrase>
+    <phrase>fly-by-night</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22557,7 +22566,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>self - willed</phrase>
+    <phrase>self-willed</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22583,7 +22592,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>well - known</phrase>
+    <phrase>well-known</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22596,7 +22605,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>also - ran</phrase>
+    <phrase>also-ran</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22622,7 +22631,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>has - been</phrase>
+    <phrase>has-been</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22635,7 +22644,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>ill - fated</phrase>
+    <phrase>ill-fated</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22648,7 +22657,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>ill - starred</phrase>
+    <phrase>ill-starred</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22661,7 +22670,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>star - crossed</phrase>
+    <phrase>star-crossed</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22674,7 +22683,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>unheard - of</phrase>
+    <phrase>unheard-of</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22700,7 +22709,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>dim - witted</phrase>
+    <phrase>dim-witted</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22713,7 +22722,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>empty - headed</phrase>
+    <phrase>empty-headed</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22726,7 +22735,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>half - baked</phrase>
+    <phrase>half-baked</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22739,7 +22748,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>half - witted</phrase>
+    <phrase>half-witted</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22752,7 +22761,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>know - nothing</phrase>
+    <phrase>know-nothing</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22765,7 +22774,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>simple - minded</phrase>
+    <phrase>simple-minded</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22778,7 +22787,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>law - abiding</phrase>
+    <phrase>law-abiding</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22791,7 +22800,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>self - righteous</phrase>
+    <phrase>self-righteous</phrase>
     <entry domain="appraisal">
       <constraints>
 	<pos>JJ</pos>
@@ -22804,7 +22813,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>self - effacing</phrase>
+    <phrase>self-effacing</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22817,7 +22826,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>well - mannered</phrase>
+    <phrase>well-mannered</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22830,7 +22839,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>ill - mannered</phrase>
+    <phrase>ill-mannered</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22843,7 +22852,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>double - dealing</phrase>
+    <phrase>double-dealing</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22856,7 +22865,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>two - faced</phrase>
+    <phrase>two-faced</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22869,7 +22878,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>self - assured</phrase>
+    <phrase>self-assured</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22882,7 +22891,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>well - off</phrase>
+    <phrase>well-off</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22895,7 +22904,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>self - confident</phrase>
+    <phrase>self-confident</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22908,7 +22917,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>low - spirited</phrase>
+    <phrase>low-spirited</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22921,7 +22930,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>ill - tempered</phrase>
+    <phrase>ill-tempered</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22934,7 +22943,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>heavy - hearted</phrase>
+    <phrase>heavy-hearted</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22947,7 +22956,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>high - strung</phrase>
+    <phrase>high-strung</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22960,7 +22969,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>self - assuredly</phrase>
+    <phrase>self-assuredly</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>RB</pos>
@@ -22973,7 +22982,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>self - confidently</phrase>
+    <phrase>self-confidently</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>RB</pos>
@@ -22986,7 +22995,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>well - formed</phrase>
+    <phrase>well-formed</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -22999,7 +23008,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>well - proportioned</phrase>
+    <phrase>well-proportioned</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23012,7 +23021,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>first - class</phrase>
+    <phrase>first-class</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23025,7 +23034,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>first - rate</phrase>
+    <phrase>first-rate</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23038,7 +23047,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>good - looking</phrase>
+    <phrase>good-looking</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23064,7 +23073,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>god - awful</phrase>
+    <phrase>god-awful</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23077,7 +23086,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>off - putting</phrase>
+    <phrase>off-putting</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23090,7 +23099,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>hair - raising</phrase>
+    <phrase>hair-raising</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23103,7 +23112,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>mind - blowing</phrase>
+    <phrase>mind-blowing</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23116,7 +23125,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>ho - hum</phrase>
+    <phrase>ho-hum</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23129,7 +23138,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>dime - a - dozen</phrase>
+    <phrase>dime-a-dozen</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23142,7 +23151,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>good - for - nothing</phrase>
+    <phrase>good-for-nothing</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23155,7 +23164,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>run - of - the - mill</phrase>
+    <phrase>run-of-the-mill</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23168,7 +23177,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>second - rate</phrase>
+    <phrase>second-rate</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23181,7 +23190,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>write - off</phrase>
+    <phrase>write-off</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
