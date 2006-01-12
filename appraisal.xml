@@ -22066,9 +22066,6 @@
   <lexeme>
     <phrase>sort of</phrase>
     <entry domain="appraisal">
-      <constraints>
-        <pos/>
-      </constraints>
       <modify att="focus" type="decrease"/>
     </entry>
   </lexeme>
@@ -22084,9 +22081,6 @@
   <lexeme>
     <phrase>kind of</phrase>
     <entry domain="appraisal">
-      <constraints>
-        <pos/>
-      </constraints>
       <modify att="focus" type="decrease"/>
     </entry>
   </lexeme>
@@ -22432,9 +22426,6 @@
   <lexeme>
     <phrase>tried and true</phrase>
     <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
       <base att="attitude" value="tenacity"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
@@ -22484,9 +22475,6 @@
   <lexeme>
     <phrase>avante garde</phrase>
     <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
       <base att="attitude" value="normality"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
@@ -22523,9 +22511,6 @@
   <lexeme>
     <phrase>far out</phrase>
     <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
       <base att="attitude" value="normality"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
@@ -22601,9 +22586,6 @@
   <lexeme>
     <phrase>way out</phrase>
     <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
       <base att="attitude" value="normality"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
@@ -22965,9 +22947,6 @@
   <lexeme>
     <phrase>o . k .</phrase>
     <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
       <base att="attitude" value="quality"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
@@ -23922,7 +23901,6 @@
    <lexeme>
       <phrase>higher - end</phrase>
       <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
          <base att="attitude" value="valuation"/>
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
@@ -24636,7 +24614,6 @@
    <lexeme>
       <phrase>higher - quality</phrase>
       <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
          <base att="attitude" value="quality"/>
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
@@ -25058,7 +25035,6 @@
    <lexeme>
       <phrase>heavy - handed</phrase>
       <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
          <base att="attitude" value="capacity"/>
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
@@ -25262,7 +25238,6 @@
    <lexeme>
       <phrase>highest - quality</phrase>
       <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
          <base att="attitude" value="quality"/>
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
@@ -25427,7 +25402,6 @@
    <lexeme>
       <phrase>good - natured</phrase>
       <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
          <base att="attitude" value="propriety"/>
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
@@ -25523,7 +25497,6 @@
    <lexeme>
       <phrase>once - in - a - lifetime</phrase>
       <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
          <base att="attitude" value="valuation"/>
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
@@ -25776,7 +25749,6 @@
    <lexeme>
       <phrase>ill - conceived</phrase>
       <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
          <base att="attitude" value="valuation"/>
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
@@ -25897,7 +25869,6 @@
    <lexeme>
       <phrase>mild - mannered</phrase>
       <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
          <base att="attitude" value="social-sanction"/>
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
@@ -26045,7 +26016,6 @@
    <lexeme>
       <phrase>low quality</phrase>
       <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
          <base att="attitude" value="quality"/>
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
