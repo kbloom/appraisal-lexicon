@@ -762,6 +762,15 @@
    <lexeme>
       <phrase>that</phrase>
       <entry domain="movies">
+	 <constraints>
+	    <pos>DT</pos>
+	 </constraints>
+	 <base att="appraisedtype" value="deictic"/>
+      </entry>
+      <entry domain="movies">
+	 <constraints>
+	    <pos>PRP</pos>
+	 </constraints>
 	 <base att="appraisedtype" value="deictic"/>
       </entry>
    </lexeme>

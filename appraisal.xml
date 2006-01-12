@@ -51,26 +51,6 @@
       </constraints>
       <modify att="focus" type="increase"/>
     </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <base att="attitude" value="capacity"/>
-      <base att="orientation" value="negative"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <base att="attitude" value="complexity"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
-      <base att="focus" value="neutral"/>
-    </entry>
   </lexeme>
   <lexeme>
     <phrase>truly</phrase>
@@ -3228,14 +3208,8 @@
   <lexeme>
     <phrase>exactly</phrase>
     <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <base att="attitude" value="tenacity"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
-      <base att="focus" value="neutral"/>
+      <constraints><pos>RB</pos></constraints>
+      <modify att="focus" type="increase"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -4735,19 +4709,6 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>naturally</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <base att="attitude" value="normality"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>normally</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -5002,6 +4963,7 @@
     </entry>
   </lexeme>
   <lexeme>
+    <!--rare, but useful-->
     <phrase>able</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -5499,39 +5461,6 @@
         <pos>JJ</pos>
       </constraints>
       <base att="attitude" value="capacity"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>sound</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="capacity"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="propriety"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="quality"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="neutral"/>
@@ -15470,19 +15399,6 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>clearly</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <base att="attitude" value="complexity"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>easily</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -15814,19 +15730,6 @@
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="max"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>musical</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="balance"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
       <base att="focus" value="neutral"/>
     </entry>
   </lexeme>
@@ -23202,4 +23105,4221 @@
       <base att="focus" value="neutral"/>
     </entry>
   </lexeme>
+   <lexeme>
+      <phrase>dumb</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="orientation" value="negative"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inspired</phrase>
+      <entry domain="appraisal">
+      <!--should have constraint:JJ, 
+      but brill tagger usually gets it wrong-->
+	 <base att="attitude" value="quality"/>
+	 <base att="orientation" value="positive"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>uninspired</phrase>
+      <entry domain="appraisal">
+      <!--should have constraint:JJ, 
+      but brill tagger usually gets it wrong-->
+	 <base att="attitude" value="quality"/>
+	 <base att="orientation" value="negative"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dumbest</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>best</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>better</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>high</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="increase"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>big</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="increase"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hard</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>less</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="decrease"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>basic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>huge</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="increase"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>handy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>compatible</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>accurate</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>favorite</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>adequate</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>durable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>bulky</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>acceptable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>intuitive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hot</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ideal</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="sharp"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>absolute</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>JJ</pos></constraints>
+	 <modify att="force" type="increase"/>
+	 <modify att="focus" type="increase"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>noticeable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>extensive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>frustrating</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>extreme</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>minimal</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="decrease"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>defective</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>brief</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>efficient</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>needless</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>enjoyable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>loose</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>critical</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fabulous</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>functional</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cumbersome</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>memorable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>central</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disturbing</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>essential</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>frustrated</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cinematic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mad</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>optimal</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lousy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fragile</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>astounding</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>innocent</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>competitive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>independent</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inadequate</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inconvenient</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>comprehensive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>crucial</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>outrageous</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lazy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>outdated</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lengthy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>artificial</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>finicky</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deadly</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>foremost</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>higher - end</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>jealous</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>delicate</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>challenging</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>infamous</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>contemporary</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>bold</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>bitter</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fitting</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>legendary</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>messy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lonely</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ludicrous</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>notorious</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>glaring</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="increase"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>definitive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>desirable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>foolproof</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mighty</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>exclusive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>knowledgeable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>jerky</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fussy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inane</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>aggressive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>optimum</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>impractical</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cynical</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>effortless</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cryptic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="composition"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>concise</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dazzling</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>exhaustive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inaccurate</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dear</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>exotic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>illegal</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>melodramatic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>irrelevant</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>faint</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inconsistent</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>horrifying</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>meaningful</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>damaging</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>erotic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dissatisfied</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>incorrect</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>controversial</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="low"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lifelike</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>blatant</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dubious</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>menacing</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>misguided</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>distinctive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>insufficient</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>calm</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>grateful</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>indispensable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>manic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>higher - quality</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>eclectic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>awry</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>bulkier</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mystical</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>commendable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>crummy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>gruesome</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fictional</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="veracity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>level</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>formal</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inappropriate</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>appalling</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>impeccable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>frantic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>irresistible</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>harmless</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="social-sanction"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>discriminating</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>intrusive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>offbeat</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cranky</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>banal</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>legitimate</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>famed</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>functioning</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>edgy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>earnest</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>classical</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="appreciation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inoperable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lush</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fundamental</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>adventurous</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inviting</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>careless</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>heavy - handed</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>murky</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>icy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>expressive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hopeful</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>illuminating</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disconcerting</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>enigmatic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inexcusable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deserving</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>glamorous</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>drastic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>appreciable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="decrease"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>gory</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cocky</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>juicy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>highest - quality</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>frivolous</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>delicious</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>drab</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>incoherent</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>elementary</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hostile</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lavish</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>decisive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>arbitrary</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="veracity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hazy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ghastly</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>darned</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>formidable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>articulate</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>good - natured</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>limitless</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="composition"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>indifferent</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lurid</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dumber</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>incessant</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>incomplete</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>imperfect</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>once - in - a - lifetime</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>frenzied</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fierce</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>maddening</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>homicidal</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>heavenly</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>interminable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>idyllic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>gruff</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>amoral</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>infectious</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>incompatible</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inspirational</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>compulsive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>distraught</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hardy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dizzy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>exhilarating</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chaotic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>borderline</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>methodical</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>devilish</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>discerning</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ill - conceived</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lasting</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ferocious</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>discouraging</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>excruciating</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>exuberant</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>meaty</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>imprecise</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="composition"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>decorative</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>barren</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>conspicuous</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mild - mannered</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="social-sanction"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>destructive</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>influential</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>feasible</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>merciless</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>agile</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>novel</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>invincible</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>infuriating</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fruitless</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>graceful</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>quality</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>low quality</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unbearable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>paranoid</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>tragic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>painful</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>optimistic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>beloved</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>painless</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>proud</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>sleek</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>sturdy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disabled</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>younger</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="high"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prime</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>speedy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>high-resolution</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>strong</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>young</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="capacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>vague</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>tough</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>technical</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>usable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>streamlined</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>utilitarian</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>understandable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>readable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>useable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>straightforward</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>versatile</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>obvious</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="complexity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>poorer</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disastrous</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>shocking</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>noisy</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>immense</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unforgettable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>revolutionary</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>magical</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>wild</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unbelievable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="veracity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>vibrant</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>major</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>redundant</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>social</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>alien</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ordinary</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mainstream</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unconventional</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>plentiful</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>wacky</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>romantic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>worse</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="high"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>worst</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="max"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="max"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>sadistic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ruthless</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>sinister</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>questionable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>suspicious</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>criminal</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>spoiled</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>guilty</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>violent</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>religious</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reputable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>model</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>responsible</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>legal</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>correct</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>shabby</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unacceptable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="propriety"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>operational</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>satisfactory</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>suitable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reasonable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="low"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>serviceable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>top-quality</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>presentable</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="impact"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>well-made</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>scenic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rugged</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="balance"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>well</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="affect"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>realistic</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="quality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unwilling</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>idle</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reluctant</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>resistant</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>late</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>potent</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prompt</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>serious</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="tenacity"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>key</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>gay</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>premium</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>relevant</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>golden</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>precious</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="normality"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="negative"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>modern</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="attitude" value="valuation"/>
+         <base att="polarity" value="unmarked"/>
+         <base att="focus" value="neutral"/>
+         <base att="orientation" value="positive"/>
+         <base att="force" value="neutral"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unfortunate</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <base att="orientation" value="negative"/>
+	 <base att="attitude" value="valuation"/>
+         <base att="force" value="neutral"/>
+	 <base att="focus" value="neutral"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>moderate</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="decrease"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>slight</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="decrease"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>minor</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="decrease"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ultra</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="increase"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>severe</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="increase"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ultimate</phrase>
+      <entry domain="appraisal">
+         <constraints><pos>JJ</pos></constraints>
+         <modify att="force" type="maximize"/>
+      </entry>
+   </lexeme>
 </lexicon>
