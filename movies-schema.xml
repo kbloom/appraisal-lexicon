@@ -22,6 +22,7 @@
 	 <value name="aspect">
 	    <value name="story"/>
 	    <value name="production"/>
+	    <value name="influence"/>
 	 </value>
 	 <value name="experience"/>
 	 <value name="company"/>
