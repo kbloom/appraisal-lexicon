@@ -1,0 +1,32 @@
+<!DOCTYPE metadata SYSTEM "lexicon-metadata.dtd">
+<metadata fileid="heirarchies">
+   <domain name="products"/>
+
+   <attribute name="appraisedtype" domain="products" type="taxonomy">
+      <value name="root">
+      <value name="thing">
+	 <value name="product">
+	    <value name="this-product"/>
+	    <value name="other-product"/>
+	 </value>
+	 <value name="part">
+	    <value name="integral"/>
+	    <value name="replaceable"/>
+	 </value>
+	 <value name="experience"/>
+	 <value name="company"/>
+	 <value name="marketing"/>
+      </value>
+      <value name="reference">
+	 <value name="other">
+	    <value name="3rdperson"/>
+	    <value name="deictic"/>
+	 </value>
+	 <value name="interactant">
+	    <value name="1stperson"/>
+	    <value name="2ndperson"/>
+	 </value>
+      </value>
+      </value>
+   </attribute>
+</metadata>
