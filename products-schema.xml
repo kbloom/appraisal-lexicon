@@ -16,6 +16,7 @@
 	 <value name="experience"/>
 	 <value name="company"/>
 	 <value name="marketing"/>
+      	<value name="support"/>
       </value>
       <value name="reference">
 	 <value name="other">

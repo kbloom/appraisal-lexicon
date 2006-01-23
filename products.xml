@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lexicon SYSTEM "lexicon-phrases.dtd">
+<lexicon fileid="productwords">
+    <lexeme>
+        <phrase>this</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="deictic"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>this one</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>the camera</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>this camera</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>that camera</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="other-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>it</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="3rdperson"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>that</phrase>
+        <entry domain="products">
+            <constraints>
+                <pos>DT</pos>
+            </constraints>
+            <base att="appraisedtype" value="deictic"/>
+        </entry>
+        <entry domain="products">
+            <constraints>
+                <pos>PRP</pos>
+            </constraints>
+            <base att="appraisedtype" value="deictic"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>these</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="deictic"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>those</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="deictic"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>cameras</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="other"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>camera</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>pictures</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>picture</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>battery</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>port</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>usb port</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>usb cable</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>package</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>software</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>storage</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>storage</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+        <lexeme>
+        <phrase>image</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>batteries</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>price</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>flash</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>flash</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+        <lexeme>
+        <phrase>internal memory</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>expansion slot</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="internal"/>
+        </entry>
+    </lexeme>
+       <lexeme>
+        <phrase>lcd</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="internal"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>customer service</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+      <lexeme>
+        <phrase>pics</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>pic</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>snapshot</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>snapshots</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>photography</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>program</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>programs</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>sensors</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>photos</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>photo</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>snaps</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>driver</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>resolution</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>electronic item</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>unit</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>cable</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>cables</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>lens</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>video</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>output</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>tv output</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>buttons</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>button</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>webcam</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>aa</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>aaa</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>features</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>digicam</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>acessories</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>acessory</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>controls</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>auto - flash</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>telephone support</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>guide</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+        <lexeme>
+        <phrase>manual</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>warranty</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>printer</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>the printer</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>this printer</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>that printer</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="other-product"/>
+        </entry>
+    </lexeme>
+    
+    <lexeme>
+        <phrase>roller</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>rollers</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>laser printer</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>installation</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>instruction</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>instructions</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>drivers</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>original toner</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>toner</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>drum</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>part</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="part"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>service</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>tests</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>test</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>page</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>pages</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>graphics file</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>graphics files</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>tray</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>paper</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>machine</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>envolope</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>letterhead</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>streaks</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>documentation</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>typefaces</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>instruction manual</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>cartridge</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>setup guide</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>system</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>standard cartridge</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>toner-saving</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>standard cartridges</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>inkjet printer</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>sheet</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>feeder</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>duplex</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>configuration</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>settings</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>printout</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>printouts</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>mode</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>power-saving</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>tech support</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="support"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>commercial</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>print jobs</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>print job</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="experience"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>stroller</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>this stroller</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>that stroller</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="other-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>the stroller</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+     <lexeme>
+        <phrase>basket</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>infant seat</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>jump seat</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>wheels</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="replaceable"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>coach</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>push-bar</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>push bar</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>drink holder</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>stroller seat</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>storage space</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>frame</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="integral"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>double stroller</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="this-product"/>
+        </entry>
+    </lexeme>
+    <lexeme>
+        <phrase>front seat</phrase>
+        <entry domain="products">
+            <base att="appraisedtype" value="intgeral"/>
+        </entry>
+    </lexeme>
+</lexicon>
