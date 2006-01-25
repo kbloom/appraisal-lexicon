@@ -6,7 +6,8 @@
 
 <!ELEMENT lexeme (phrase,entry*)>
 <!ELEMENT entry (constraints?,(%attribute;)*)>
-<!ATTLIST entry domain CDATA #REQUIRED>
+<!ATTLIST entry domain CDATA #REQUIRED
+		context CDATA #IMPLIED>
 
 <!ELEMENT phrase (#PCDATA)>
 <!ELEMENT constraints (pos)*>
