@@ -1,5 +1,5 @@
 <!DOCTYPE metadata SYSTEM "lexicon-metadata.dtd">
-<metadata fileid="heirarchies">
+<metadata fileid="products-schema">
    <domain name="products"/>
 
    <attribute name="appraisedtype" domain="products" type="taxonomy">
