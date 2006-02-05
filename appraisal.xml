@@ -4,6 +4,24 @@
 <!-- vim: set sts=2 sw=2: -->
 <lexicon fileid="exported">
   <lexeme>
+    <phrase>an</phrase>
+    <entry domain="appraisal">
+      <noop/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>the</phrase>
+    <entry domain="appraisal">
+      <noop/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>a</phrase>
+    <entry domain="appraisal">
+      <noop/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>no</phrase>
     <entry domain="appraisal">
       <constraints>
