@@ -23930,11 +23930,6 @@
       <phrase>jealous</phrase>
       <entry domain="appraisal">
          <constraints><pos>JJ</pos></constraints>
-         <base att="orientation" value="negative"/>
-         <base att="force" value="neutral"/>
-      </entry>
-      <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
          <base att="attitude" value="propriety"/>
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
@@ -26179,25 +26174,6 @@
       </entry>
    </lexeme>
    <lexeme>
-      <phrase>younger</phrase>
-      <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
-         <base att="attitude" value="capacity"/>
-         <base att="polarity" value="unmarked"/>
-         <base att="focus" value="neutral"/>
-         <base att="orientation" value="positive"/>
-         <base att="force" value="high"/>
-      </entry>
-      <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
-         <base att="attitude" value="capacity"/>
-         <base att="polarity" value="unmarked"/>
-         <base att="focus" value="neutral"/>
-         <base att="orientation" value="negative"/>
-         <base att="force" value="high"/>
-      </entry>
-   </lexeme>
-   <lexeme>
       <phrase>prime</phrase>
       <entry domain="appraisal">
          <constraints><pos>JJ</pos></constraints>
@@ -26238,25 +26214,6 @@
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
          <base att="orientation" value="positive"/>
-         <base att="force" value="neutral"/>
-      </entry>
-   </lexeme>
-   <lexeme>
-      <phrase>young</phrase>
-      <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
-         <base att="attitude" value="capacity"/>
-         <base att="polarity" value="unmarked"/>
-         <base att="focus" value="neutral"/>
-         <base att="orientation" value="positive"/>
-         <base att="force" value="neutral"/>
-      </entry>
-      <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
-         <base att="attitude" value="capacity"/>
-         <base att="polarity" value="unmarked"/>
-         <base att="focus" value="neutral"/>
-         <base att="orientation" value="negative"/>
          <base att="force" value="neutral"/>
       </entry>
    </lexeme>
