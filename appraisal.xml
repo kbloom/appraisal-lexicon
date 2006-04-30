@@ -94,12 +94,6 @@
       <constraints>
 	<pos>RB</pos>
       </constraints>
-      <modify att="focus" type="increase"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-	<pos>RB</pos>
-      </constraints>
       <modify att="force" type="maximize"/>
     </entry>
   </lexeme>
@@ -306,11 +300,6 @@
 	<pos>RB</pos>
       </constraints>
       <modify att="focus" type="increase"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
       <modify att="force" type="increase"/>
     </entry>
   </lexeme>
