@@ -8,12 +8,6 @@
       </entry>
    </lexeme>
    <lexeme>
-      <phrase>drama</phrase>
-      <entry domain="movies">
-         <base att="appraisedtype" value="production"/>
-      </entry>
-   </lexeme>
-   <lexeme>
       <phrase>sound effects</phrase>
       <entry domain="movies">
          <base att="appraisedtype" value="production"/>
@@ -158,12 +152,6 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>situation</phrase>
-    <entry domain="movies">
-      <base att="appraisedtype" value="story"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>situations</phrase>
     <entry domain="movies">
       <base att="appraisedtype" value="story"/>
@@ -177,12 +165,6 @@
   </lexeme>
   <lexeme>
     <phrase>vocals</phrase>
-    <entry domain="movies">
-      <base att="appraisedtype" value="production"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>violence</phrase>
     <entry domain="movies">
       <base att="appraisedtype" value="production"/>
     </entry>
@@ -478,6 +460,9 @@
    <lexeme>
       <phrase>drama</phrase>
       <entry domain="movies">
+         <base att="appraisedtype" value="production"/>
+      </entry>
+      <entry domain="movies">
 	 <base att="appraisedtype" value="story"/>
       </entry>
    </lexeme>
@@ -554,12 +539,6 @@
       </entry>
    </lexeme>
    <lexeme>
-      <phrase>premise</phrase>
-      <entry domain="movies">
-	 <base att="appraisedtype" value="story"/>
-      </entry>
-   </lexeme>
-   <lexeme>
       <phrase>presentation</phrase>
       <entry domain="movies">
 	 <base att="appraisedtype" value="production"/>
@@ -575,12 +554,6 @@
       <phrase>show</phrase>
       <entry domain="movies">
 	 <base att="appraisedtype" value="this-movie"/>
-      </entry>
-   </lexeme>
-   <lexeme>
-      <phrase>style</phrase>
-      <entry domain="movies">
-	 <base att="appraisedtype" value="production"/>
       </entry>
    </lexeme>
    <lexeme>
@@ -818,12 +791,6 @@
       </entry>
    </lexeme>
    <lexeme>
-      <phrase>performance</phrase>
-      <entry domain="movies">
-         <base att="appraisedtype" value="production"/>
-      </entry>
-   </lexeme>
-   <lexeme>
       <phrase>performances</phrase>
       <entry domain="movies">
          <base att="appraisedtype" value="production"/>
@@ -857,12 +824,6 @@
       <phrase>pictures</phrase>
       <entry domain="movies">
          <base att="appraisedtype" value="other-movie"/>
-      </entry>
-   </lexeme>
-   <lexeme>
-      <phrase>plot</phrase>
-      <entry domain="movies">
-         <base att="appraisedtype" value="story"/>
       </entry>
    </lexeme>
    <lexeme>
@@ -1041,12 +1002,6 @@
    </lexeme>
    <lexeme>
       <phrase>stories</phrase>
-      <entry domain="movies">
-         <base att="appraisedtype" value="story"/>
-      </entry>
-   </lexeme>
-   <lexeme>
-      <phrase>story</phrase>
       <entry domain="movies">
          <base att="appraisedtype" value="story"/>
       </entry>
