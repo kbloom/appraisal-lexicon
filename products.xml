@@ -14,12 +14,6 @@
 		</entry>
 	</lexeme>
 	<lexeme>
-		<phrase>cameras</phrase>
-		<entry domain="products" context="Digital Cameras">
-			<base att="appraisedtype" value="product" />
-		</entry>
-	</lexeme>
-	<lexeme>
 		<phrase>other camera</phrase>
 		<entry domain="products" context="Digital Cameras">
 			<base att="appraisedtype" value="other-product" />
@@ -790,12 +784,6 @@
 		</entry>
 	</lexeme>
 	<lexeme>
-		<phrase>cartridge</phrase>
-		<entry domain="products" context="Printers">
-			<base att="appraisedtype" value="replaceable" />
-		</entry>
-	</lexeme>
-	<lexeme>
 		<phrase>setup guide</phrase>
 		<entry domain="products">
 			<base att="appraisedtype" value="support" />
@@ -1144,12 +1132,6 @@
 		<phrase>cleaning instructions</phrase>
 		<entry domain="products">
 			<base att="appraisedtype" value="support" />
-		</entry>
-	</lexeme>
-	<lexeme>
-		<phrase>toner quality</phrase>
-		<entry domain="products" context="Printers">
-			<base att="appraisedtype" value="experience" />
 		</entry>
 	</lexeme>
 	<lexeme>
