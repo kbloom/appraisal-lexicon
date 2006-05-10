@@ -487,12 +487,6 @@
       </constraints>
       <modify att="force" type="maximize"/>
     </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <modify att="force" type="increase"/>
-    </entry>
   </lexeme>
   <lexeme>
     <phrase>terribly</phrase>
@@ -10649,16 +10643,6 @@
         <pos>JJ</pos>
       </constraints>
       <base att="attitude" value="complexity"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="neutral"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="complexity"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="neutral"/>
@@ -10693,16 +10677,6 @@
       </constraints>
       <base att="attitude" value="complexity"/>
       <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="high"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJR</pos>
-      </constraints>
-      <base att="attitude" value="complexity"/>
-      <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
       <base att="focus" value="neutral"/>
@@ -11354,16 +11328,6 @@
       </constraints>
       <base att="attitude" value="complexity"/>
       <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="max"/>
-      <base att="focus" value="neutral"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJS</pos>
-      </constraints>
-      <base att="attitude" value="complexity"/>
-      <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="max"/>
       <base att="focus" value="neutral"/>
@@ -23092,17 +23056,6 @@
     </entry>
   </lexeme>
    <lexeme>
-      <phrase>dumb</phrase>
-      <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
-         <base att="attitude" value="capacity"/>
-         <base att="orientation" value="negative"/>
-         <base att="polarity" value="unmarked"/>
-         <base att="focus" value="neutral"/>
-         <base att="force" value="neutral"/>
-      </entry>
-   </lexeme>
-   <lexeme>
       <phrase>inspired</phrase>
       <entry domain="appraisal">
       <!--should have constraint:JJ, 
@@ -23223,14 +23176,6 @@
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
          <base att="orientation" value="positive"/>
-         <base att="force" value="neutral"/>
-      </entry>
-      <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
-         <base att="attitude" value="complexity"/>
-         <base att="polarity" value="unmarked"/>
-         <base att="focus" value="neutral"/>
-         <base att="orientation" value="negative"/>
          <base att="force" value="neutral"/>
       </entry>
    </lexeme>
@@ -23424,14 +23369,6 @@
       <entry domain="appraisal">
          <constraints><pos>JJ</pos></constraints>
          <base att="attitude" value="normality"/>
-         <base att="polarity" value="unmarked"/>
-         <base att="focus" value="neutral"/>
-         <base att="orientation" value="negative"/>
-         <base att="force" value="neutral"/>
-      </entry>
-      <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
-         <base att="attitude" value="impact"/>
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
          <base att="orientation" value="negative"/>
@@ -24937,14 +24874,6 @@
          <base att="orientation" value="positive"/>
          <base att="force" value="neutral"/>
       </entry>
-      <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
-         <base att="attitude" value="impact"/>
-         <base att="polarity" value="unmarked"/>
-         <base att="focus" value="neutral"/>
-         <base att="orientation" value="negative"/>
-         <base att="force" value="neutral"/>
-      </entry>
    </lexeme>
    <lexeme>
       <phrase>earnest</phrase>
@@ -25196,14 +25125,6 @@
          <base att="polarity" value="unmarked"/>
          <base att="focus" value="neutral"/>
          <base att="orientation" value="negative"/>
-         <base att="force" value="neutral"/>
-      </entry>
-      <entry domain="appraisal">
-         <constraints><pos>JJ</pos></constraints>
-         <base att="attitude" value="impact"/>
-         <base att="polarity" value="unmarked"/>
-         <base att="focus" value="neutral"/>
-         <base att="orientation" value="positive"/>
          <base att="force" value="neutral"/>
       </entry>
    </lexeme>
