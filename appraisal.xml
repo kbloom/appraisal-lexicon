@@ -755,7 +755,22 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>entertained</phrase>
+    <entry domain="appraisal">
+      <constraints><pos>JJ</pos></constraints>
+      <base att="attitude" value="affect"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="neutral"/>
+      <base att="focus" value="neutral"/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>thoroughly</phrase>
+    <entry domain="appraisal">
+      <constraints><pos>RB</pos></constraints>
+      <modify att="force" type="increase"/>
+    </entry>
     <entry domain="appraisal">
       <constraints>
         <pos>RB</pos>
@@ -17530,6 +17545,10 @@
   <lexeme>
     <phrase>beautifully</phrase>
     <entry domain="appraisal">
+      <constraints><pos>RB</pos></constraints>
+      <modify att="force" type="increase"/>
+    </entry>
+    <entry domain="appraisal">
       <constraints>
         <pos>RB</pos>
       </constraints>
@@ -17613,6 +17632,10 @@
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
       <base att="focus" value="neutral"/>
+    </entry>
+    <entry domain="appraisal">
+      <constraints><pos>RB</pos></constraints>
+      <modify att="force" type="increase"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -21630,6 +21653,10 @@
   </lexeme>
   <lexeme>
     <phrase>appropriately</phrase>
+    <entry domain="appraisal">
+      <constraints><pos>RB</pos></constraints>
+      <noop/>
+    </entry>
     <entry domain="appraisal">
       <constraints>
         <pos>RB</pos>
