@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lexicon SYSTEM "lexicon-phrases.dtd">
+<lexicon fileid="moviesmore">
+  <lexeme>
+    <phrase>guy</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="actor"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>guys</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="actor"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>diplomat</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>diplomats</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>doctor</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>doctors</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mother</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mothers</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>parent</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>parents</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>father</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fathers</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>kid</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>kids</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>person</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>people</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>roommate</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>man</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>men</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>women</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>woman</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="character"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dvd features</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="marketing"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>video game</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="marketing"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>comedy</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="other-movie"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cinematography</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="production"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mood</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="production"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>music</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="production"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>segues</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="production"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sound track</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="production"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>chemistry</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="story"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>duels</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="story"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sequence</phrase>
+    <entry domain="movies">
+      <base att="appraisedtype" value="story"/>
+    </entry>
+  </lexeme>
+</lexicon>
