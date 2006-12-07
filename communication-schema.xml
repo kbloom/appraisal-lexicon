@@ -1,0 +1,17 @@
+<!DOCTYPE metadata SYSTEM "lexicon-metadata.dtd">
+<metadata fileid="communication-schema">
+   <domain name="communication"/>
+   <attribute domain="communication" name="group" type="taxonomy">
+      <value name="communication">
+	 <value name="characterize"/>
+	 <value name="declare"/>
+	 <value name="conjecture"/>
+	 <value name="admire"/>
+	 <value name="judgment"/>
+	 <value name="assessment"/>
+	 <value name="say"/>
+	 <value name="complain"/>
+	 <value name="advise"/>
+      </value>
+   </attribute>
+</metadata>

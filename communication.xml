@@ -1,0 +1,1559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lexicon SYSTEM "lexicon-phrases.dtd">
+<!-- vim: set sts=2 sw=2: -->
+<lexicon fileid="communication">
+  <lexeme>
+    <phrase>accept</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>address</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>appreciate</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bill</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cast</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>certify</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>characterize</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>choose</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cite</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>class</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>classify</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>confirm</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>count</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>define</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>describe</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>diagnose</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disguise</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>employ</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>engage</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enlist</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enroll</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enter</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>envisage</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>establish</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>esteem</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hail</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>herald</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hire</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>honor</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>identify</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>imagine</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>incorporate</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>induct</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intend</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lampoon</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>offer</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>oppose</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>paint</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>portray</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>praise</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>qualify</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rank</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>recollect</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>recommend</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>regard</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reinstate</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reject</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>remember</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>represent</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>repudiate</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reveal</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>salute</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>see</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>select</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stigmatize</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>take</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>train</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>treat</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>use</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>value</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>view</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>visualize</phrase>
+    <entry domain="communication">
+      <base att="group" value="characterize"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>adjudge</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>adjudicate</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>assume</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>avow</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>believe</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>confess</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>declare</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fancy</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>find</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>judge</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>presume</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>profess</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prove</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>suppose</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>think</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>warrant</phrase>
+    <entry domain="communication">
+      <base att="group" value="declare"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>admit</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>allow</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>assert</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>conjecture</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>deny</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>discover</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>feel</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>figure</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>grant</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>guarantee</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>guess</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hold</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>know</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>maintain</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mean</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>observe</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>recognize</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>repute</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>show</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>suspect</phrase>
+    <entry domain="communication">
+      <base att="group" value="conjecture"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>admire</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>adore</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>appreciate</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cherish</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enjoy</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>esteem</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>exalt</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fancy</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>favor</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>idolize</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>like</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>love</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>miss</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prize</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>respect</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>relish</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>revere</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>savor</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stand</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>support</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tolerate</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>treasure</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>trust</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>value</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>venerate</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>worship</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>abhor</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>deplore</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>despise</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>detest</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disdain</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dislike</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>distrust</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dread</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>envy</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>execrate</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fear</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hate</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lament</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>loathe</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mourn</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pity</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>regret</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reset</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rue</phrase>
+    <entry domain="communication">
+      <base att="group" value="admire"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>acclaim</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>applaud</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bless</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>celebrate</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>commend</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>compensate</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>compliment</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>congratulate</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>eulogize</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>excuse</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>extol</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>felicitate</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>forgive</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>greet</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hail</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>honor</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>laud</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pardon</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>praise</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>recompense</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>remunerate</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>repay</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reward</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>salute</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>thank</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>toast</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>welcome</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>abuse</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>backbite</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>calumniate</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>castigate</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>censure</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>chasten</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>chastise</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>chide</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>condemn</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>criticize</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>decry</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>defame</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>denigrate</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>denounce</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>deprecate</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>deride</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disparage</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fault</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fine</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>impeach</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>insult</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lambaste</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>malign</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mock</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>penalize</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>persecute</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prosecute</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>punish</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rebuke</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reprimand</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reproach</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reprove</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>revile</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ridicule</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>scold</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>scorn</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>shame</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>snub</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>upbraid</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>victimize</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vilify</phrase>
+    <entry domain="communication">
+      <base att="group" value="judgment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>analyze</phrase>
+    <entry domain="communication">
+      <base att="group" value="assessment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>assess</phrase>
+    <entry domain="communication">
+      <base att="group" value="assessment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>audit</phrase>
+    <entry domain="communication">
+      <base att="group" value="assessment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>evaluate</phrase>
+    <entry domain="communication">
+      <base att="group" value="assessment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>review</phrase>
+    <entry domain="communication">
+      <base att="group" value="assessment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>scrutinize</phrase>
+    <entry domain="communication">
+      <base att="group" value="assessment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>study</phrase>
+    <entry domain="communication">
+      <base att="group" value="assessment"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>announce</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>articulate</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>blab</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>blurt</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>claim</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>confess</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>confide</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>convey</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>declare</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mention</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>note</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>observe</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>proclaim</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>propose</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>recount</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reiterate</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>relate</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>remark</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>repeat</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>report</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reveal</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>say</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>state</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>suggest</phrase>
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>boast</phrase>
+    <entry domain="communication">
+      <base att="group" value="complain"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>brag</phrase>
+    <entry domain="communication">
+      <base att="group" value="complain"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>complain</phrase>
+    <entry domain="communication">
+      <base att="group" value="complain"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>crab</phrase>
+    <entry domain="communication">
+      <base att="group" value="complain"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>gribe</phrase>
+    <entry domain="communication">
+      <base att="group" value="complain"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>grouch</phrase>
+    <entry domain="communication">
+      <base att="group" value="complain"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>grouse</phrase>
+    <entry domain="communication">
+      <base att="group" value="complain"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>grumble</phrase>
+    <entry domain="communication">
+      <base att="group" value="complain"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>kvetch</phrase>
+    <entry domain="communication">
+      <base att="group" value="complain"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>object</phrase>
+    <entry domain="communication">
+      <base att="group" value="complain"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>admonish</phrase>
+    <entry domain="communication">
+      <base att="group" value="advise"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>advise</phrase>
+    <entry domain="communication">
+      <base att="group" value="advise"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>alert</phrase>
+    <entry domain="communication">
+      <base att="group" value="advise"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>caution</phrase>
+    <entry domain="communication">
+      <base att="group" value="advise"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>counsel</phrase>
+    <entry domain="communication">
+      <base att="group" value="advise"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>instruct</phrase>
+    <entry domain="communication">
+      <base att="group" value="advise"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>warn</phrase>
+    <entry domain="communication">
+      <base att="group" value="advise"/>
+    </entry>
+  </lexeme>
+</lexicon>
