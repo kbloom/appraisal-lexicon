@@ -1,0 +1,10 @@
+<!DOCTYPE metadata SYSTEM "lexicon-metadata.dtd">
+<metadata fileid="automatic">
+   <domain name="automatic"/>
+   
+   <attribute name="polarity" domain="automatic" type="cline">
+      <intermediate name="positive"/>
+      <flippoint/>
+      <intermediate name="negative"/>
+   </attribute>
+</metadata>
