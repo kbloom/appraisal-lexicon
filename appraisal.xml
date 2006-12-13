@@ -644,6 +644,12 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>much</phrase>
+    <entry domain="appraisal">
+      <modify att="force" type="increase"/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>quite</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -17789,6 +17795,10 @@
       <base att="polarity" value="unmarked"/>
       <base att="force" value="neutral"/>
       <base att="focus" value="neutral"/>
+    </entry>
+    <entry domain="appraisal">
+      <constraints><pos>RB</pos></constraints>
+      <set att="orientation" value="positive"/>
     </entry>
   </lexeme>
   <lexeme>
