@@ -72,14 +72,14 @@
       <maximum name="max"/>
       <intermediate name="very high"/>
       <intermediate name="high"/>
-      <flippoint name="neutral"/>
+      <flippoint name="median"/>
       <intermediate name="low"/>
       <intermediate name="very low"/>
       <minimum name="min"/>
    </attribute>
    <attribute domain="appraisal" name="polarity" type="cline">
       <intermediate name="unmarked"/>
-      <flippoint />
+      <flippoint name="neutral"/>
       <intermediate name="marked"/>
    </attribute>
    <attribute domain="appraisal" name="orientation" type="cline">
@@ -89,7 +89,7 @@
    </attribute>
    <attribute domain="appraisal" name="focus" type="cline">
       <intermediate name="sharp"/>
-      <flippoint name="neutral"/>
+      <flippoint name="median"/>
       <intermediate name="soft"/>
    </attribute>
 </metadata>
