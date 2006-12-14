@@ -1,0 +1,2276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lexicon.xsl"?>
+<!DOCTYPE lexicon SYSTEM "lexicon-phrases.dtd">
+<!-- vim: set sts=2 sw=2: -->
+<lexicon fileid="shlomos-rough">
+   <lexeme>
+      <phrase>halcyon</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>happiest</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>heartfelt</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>passionate</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>pleasure</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>alarming</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>alienating</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>angers</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ashamed</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disquieting</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>distressing</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>humiliatingly</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>stressful</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>suffering</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>tortured</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="affect"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>abundant</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>accidental</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>all-star</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>benign</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>brand-new</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cheaper</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>concerted</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>conclusive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>constructive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>corrective</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>exalted</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ground-breaking</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hard-won</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>healthier</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>healthiest</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>higher-quality</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>high-quality</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>intensive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>laudable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>long-lasting</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>much-needed</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>paramount</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>peace</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>peaceful</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>preferable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>real-time</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reunification</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rewarding</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>surpassing</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>top-notch</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>transparent</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>viable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>world-class</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>abrupt</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>adverse</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>antiquated</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>arduous</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>baseless</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>biased</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>burdensome</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cheaper</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dangerous</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dead</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dead-end</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deformed</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>degraded</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deplorable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>destabilizing</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>detrimental</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>difficult</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disability</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disorderly</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disruptive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>distorting</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>downplayed</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>eery</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>faulty</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>flagging</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fleeting</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>futile</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>gravest</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>grievous</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>groundless</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>handicapped</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>harbingers</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>harder</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hardest</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>harmful</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>horror</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>impossible</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>improbable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>indiscriminate</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>last-ditch</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>last-minute</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>long-overdue</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mind-boggling</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>overcrowded</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>overvalued</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>overwhelming</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>perverse</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>perverted</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>precarious</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>premature</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>regrettable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>risk</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>risky</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>scant</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>scathing</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>slower-than-expected</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>slumping</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>so-called</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>speculative</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>stark</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>strenuous</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>sudden-death</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unfounded</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unimaginable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unrealistic</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unstable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unsuitable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unsupportable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unthinkable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>volatile</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>wasteful</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>worsening</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>accountable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>affluent</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>amicable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>civil</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>conciliatory</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>constitutional</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>constitutionally</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>co-operative</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cordial</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>courtesy</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>defiant</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deft</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disarming</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>elite</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>enterprising</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>honourable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hospitable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hospitality</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>incorruptible</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>justifiable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>kindhearted</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>nurturing</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>open-hearted</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>patriotic</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>peace-loving</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rational</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reciprocal</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>resourceful</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>responsive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>seriously</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>suave</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>superhuman</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>supportive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>tenacious</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>urbane</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>virile</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>well-meaning</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>abusive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>aloof</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>barbaric</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>censure</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>child-porn</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>contentious</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>corruption</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cowards</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deep-pocketed</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>defensive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>defiant</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deliberate</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deliberately</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>delinquent</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dictator</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dictatorial</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>diehard</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>divisive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>elite</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>evasive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>greed</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>halfhearted</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hardheaded</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hard-line</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hawkish</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>heavy-handed</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>illicit</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>improper</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>indefensible</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inhumane</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>insecure</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>internecine</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>inveterate</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>irrational</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>irresponsible</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lightweights</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>masochistic</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>materialistic</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mishandling</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>murderous</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="high"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>narrow-minded</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>needy</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>neglectful</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>negligent</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>obsessive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>perverse</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>perverted</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>powerless</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>punitive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reactionary</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>relentless</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rival</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>secretive</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>self-proclaimed</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>self-serving</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>stingy</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>suborning</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>tardy</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="low"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>tax-evading</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>thoughtless</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>totalitarian</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>uncontrolled</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unforgivable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unfriendly</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unreasonable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>unruly</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>vulnerable</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="judgment"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>curious</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="neutral"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>opinion</phrase>
+      <entry domain="appraisal">
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="neutral"/>
+	 <base att="force" value="median"/>
+	 <base att="focus" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+</lexicon>
