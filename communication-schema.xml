@@ -18,7 +18,7 @@
 	 <value name="admire-type"/>
 	 <value name="judgement"/>
 	 <value name="want"/>
-	 <value type="select"/>
+	 <value name="select"/>
       </value>
       </value>
    </attribute>
