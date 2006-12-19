@@ -1556,4 +1556,12 @@
       <base att="group" value="advise"/>
     </entry>
   </lexeme>
+  <lexeme>
+    <phrase>said</phrase>
+    <!-- included because the porter stem of "said" is "said"
+    and this is an important word-->
+    <entry domain="communication">
+      <base att="group" value="say"/>
+    </entry>
+  </lexeme>
 </lexicon>
