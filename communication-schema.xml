@@ -2,6 +2,7 @@
 <metadata fileid="communication-schema">
    <domain name="communication"/>
    <attribute domain="communication" name="group" type="taxonomy">
+      <value name="root">
       <value name="communication">
 	 <value name="characterize"/>
 	 <value name="declare"/>
@@ -12,6 +13,13 @@
 	 <value name="say"/>
 	 <value name="complain"/>
 	 <value name="advise"/>
+      </value>
+      <value name="appraisal">
+	 <value name="admire-type"/>
+	 <value name="judgement"/>
+	 <value name="want"/>
+	 <value type="select"/>
+      </value>
       </value>
    </attribute>
 </metadata>

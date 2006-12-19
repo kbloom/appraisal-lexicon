@@ -1,0 +1,5598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lexicon SYSTEM "lexicon-phrases.dtd">
+<!-- vim: set sts=2 sw=2: -->
+<lexicon fileid="appraisal-verbs">
+   <lexeme>
+      <phrase>abhore</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>abhoring</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>abhored</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>abhores</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>abuse</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>abusing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>abused</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>abuses</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>acclaim</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>acclaiming</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>acclaimed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>acclaims</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>admire</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>admiring</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>admired</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>admires</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>adore</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>adoring</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>adored</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>adores</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>applaud</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>applauding</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>applauded</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>applauds</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>appreciate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>appreciating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>appreciated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>appreciates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>backbite</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>backbiting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>backbited</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>backbites</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>bless</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>blessing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>blessed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>blesss</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>caluminate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>caluminating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>caluminated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>caluminates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>castigate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>castigating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>castigated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>castigates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>celebrate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>celebrating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>celebrated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>celebrates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>censure</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>censuring</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>censured</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>censures</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chasten</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chastening</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chastened</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chastens</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chastise</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chastising</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chastised</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chastises</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cherish</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cherishing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cherished</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>cherishs</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chide</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chiding</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chided</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>chides</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>commend</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>commending</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>commended</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>commends</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>compensate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>compensating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>compensated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>compensates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>compliment</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>complimenting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>complimented</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>compliments</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>condemn</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>condemning</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>condemned</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>condemns</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>congratulate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>congratulating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>congratulated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>congratulates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>covet</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="want"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>coveting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>coveted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>covets</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>crave</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="want"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>craving</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>craved</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>craves</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>criticize</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>criticizing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>criticized</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>criticizes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>decry</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>decrying</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>decried</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>decries</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>defame</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>defaming</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>defamed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>defames</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>denigrate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>denigrating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>denigrated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>denigrates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>denounce</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>denouncing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>denounced</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>denounces</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deplore</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deploring</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deplored</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deplores</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deprecate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deprecating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deprecated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deprecates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deride</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>deriding</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>derided</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>derides</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>desire</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="want"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>desiring</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>desired</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>desires</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>despise</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>despising</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>despised</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>despises</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>detest</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>detesting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>detested</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>detests</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disdain</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disdaining</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disdained</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disdains</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dislike</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disliking</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disliked</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dislikes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disparage</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disparaging</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disparaged</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>disparages</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>distrust</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>distrusting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>distrusted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>distrusts</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dread</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dreading</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dreaded</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>dreads</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>enjoy</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>enjoying</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>enjoyed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>enjoys</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>envy</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>envying</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>envied</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>envies</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>esteem</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>esteeming</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>esteemed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>esteems</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>eulogize</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>eulogizing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>eulogized</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>eulogizes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>exalt</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>exalting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>exalted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>exalts</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>excuse</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>excusing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>excused</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>excuses</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>execrate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>execrating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>execrated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>execrates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>extol</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>extolling</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>extolled</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>extols</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fancy</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fancying</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fancied</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fancies</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fault</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>faulting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>faulted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>faults</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>favor</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>favoring</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>favored</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>favors</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fear</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fearing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>feared</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fears</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>felicitate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>felicitating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>felicitated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>felicitates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fine</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fining</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fined</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>fines</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>forgive</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>forgiving</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>forgived</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>forgives</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>greet</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>greeting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>greeted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>greets</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hail</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hailing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hailed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hails</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>hates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>honor</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>honoring</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>honored</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>honors</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>idolize</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>idolizing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>idolized</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>idolizes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>impeach</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>impeaching</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>impeached</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>impeachs</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>insult</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>insulting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>insulted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>insults</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lambaste</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lambasting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lambasted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lambastes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lament</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lamenting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lamented</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>laments</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>laud</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lauding</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lauded</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>lauds</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>like</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>liking</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>liked</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>likes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>loathe</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>loathing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>loathed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>loathes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>love</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>loving</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>loved</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>loves</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>malign</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>maligning</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>maligned</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>maligns</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>miss</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>missing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>missed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>misss</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mock</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mocking</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mocked</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mocks</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mourn</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mourning</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mourned</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>mourns</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>need</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="want"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>needing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>needed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>needs</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>pardon</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>pardoning</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>pardoned</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>pardons</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>pay</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>paying</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>paid</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>pays</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>penalize</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>penalizing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>penalized</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>penalizes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>persecute</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>persecuting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>persecuted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>persecutes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>pity</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>pitying</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>pitied</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>pities</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>praise</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>praising</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>praised</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>praises</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prefer</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="selection"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prefering</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prefered</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prefers</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prize</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prizing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prized</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prizes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prosecute</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prosecuting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prosecuted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>prosecutes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>punish</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>punishing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>punished</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>punishs</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rebuke</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rebuking</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rebuked</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rebukes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>recompense</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>recompensing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>recompensed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>recompenses</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>regret</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>regreting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>regreted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>regrets</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>relish</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>relishing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>relished</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>relishs</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>remunerate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>remunerating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>remunerated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>remunerates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reprimand</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reprimanding</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reprimanded</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reprimands</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reproach</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reproaching</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reproached</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reproachs</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reprove</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reproving</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reproved</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reproves</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>resent</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>resenting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>resented</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>resents</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>respect</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>respecting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>respected</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>respects</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>revere</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>revering</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>revered</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reveres</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>revile</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reviling</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reviled</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reviles</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>reward</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rewarding</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rewarded</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rewards</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ridicule</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ridiculing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ridiculed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ridicules</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rue</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>ruing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rued</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>rues</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>salute</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>saluting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>saluted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>salutes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>savor</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>savoring</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>savored</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>savors</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>scold</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>scolding</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>scolded</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>scolds</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>scorn</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>scorning</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>scorned</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>scorns</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>shame</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>shaming</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>shamed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>shames</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>snub</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>snubing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>snubed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>snubs</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>stand</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>standing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>standed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>stands</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>support</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>supporting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>supported</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>supports</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>thank</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>thanking</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>thanked</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>thanks</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>toast</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>toasting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>toasted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>toasts</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>tolerate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>tolerating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>tolerated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>tolerates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>treasure</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>treasuring</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>treasured</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>treasures</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>trust</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>trusting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>trusted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>trusts</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>upbraid</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>upbraiding</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>upbraided</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>upbraids</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>value</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>valuing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>valued</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>values</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>venerate</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>venerating</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>venerated</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>venerates</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>victimize</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>victimizing</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>victimized</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>victimizes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>vilify</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>vilifying</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>vilifyed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>vilifys</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="negative"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>want</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="want"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>wanting</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>wanted</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>wants</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="attitude"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>welcome</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="judgement"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>welcoming</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>welcomed</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>welcomes</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="judgement"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>worship</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VB</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+      <entry domain="communication">
+	 <base att="group" value="admire-type"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>worshiping</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBG</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>worshiped</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBD</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>worships</phrase>
+      <entry domain="appraisal">
+	 <constraints><pos>VBZ</pos></constraints>
+	 <base att="attitude" value="appreciation"/>
+	 <base att="orientation" value="positive"/>
+	 <base att="focus" value="median"/>
+	 <base att="force" value="median"/>
+	 <base att="polarity" value="unmarked"/>
+      </entry>
+   </lexeme>
+</lexicon>
