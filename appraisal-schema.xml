@@ -10,6 +10,27 @@
       <value name="attitude">
 	 <value name="affect">
 	    <!-- how do I feel? The word describes an emotion -->
+	    <value name="happiness">
+	       <value name="misery"/>
+	       <value name="antipathy"/>
+	       <value name="cheer"/>
+	       <value name="affection"/>
+	    </value>
+	    <value name="security">
+	       <value name="disquiet"/>
+	       <value name="surprise"/>
+	       <value name="confidence"/>
+	       <value name="trust"/>
+	    </value>
+	    <value name="satisfaction">
+	       <value name="ennui"/>
+	       <value name="pleasure"/>
+	       <value name="interest"/>
+	    </value>
+	    <value name="inclination">
+	       <value name="fear"/>
+	       <value name="desire"/>
+	    </value>
 	 </value>
 	 <value name="appreciation">
 	    <value name="composition">
