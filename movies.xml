@@ -22,31 +22,31 @@
   <lexeme>
     <phrase>everything</phrase>
     <entry domain="movies">
-      <base att="appraisedtype" value="3rdperson"/>
+      <base att="appraisedtype" value="thing"/>
     </entry>
   </lexeme>
   <lexeme>
     <phrase>nothing</phrase>
     <entry domain="movies">
-      <base att="appraisedtype" value="3rdperson"/>
+      <base att="appraisedtype" value="thing"/>
     </entry>
   </lexeme>
   <lexeme>
     <phrase>things</phrase>
     <entry domain="movies">
-      <base att="appraisedtype" value="3rdperson"/>
+      <base att="appraisedtype" value="thing"/>
     </entry>
   </lexeme>
   <lexeme>
     <phrase>thing</phrase>
     <entry domain="movies">
-      <base att="appraisedtype" value="3rdperson"/>
+      <base att="appraisedtype" value="thing"/>
     </entry>
   </lexeme>
   <lexeme>
     <phrase>something</phrase>
     <entry domain="movies">
-      <base att="appraisedtype" value="3rdperson"/>
+      <base att="appraisedtype" value="thing"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -1155,15 +1155,6 @@
    <lexeme>
       <phrase>that</phrase>
       <entry domain="movies">
-	 <constraints>
-	    <pos>DT</pos>
-	 </constraints>
-	 <base att="appraisedtype" value="deictic"/>
-      </entry>
-      <entry domain="movies">
-	 <constraints>
-	    <pos>PRP</pos>
-	 </constraints>
 	 <base att="appraisedtype" value="deictic"/>
       </entry>
    </lexeme>

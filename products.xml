@@ -2,12 +2,6 @@
 <!DOCTYPE lexicon SYSTEM "lexicon-phrases.dtd">
 <lexicon fileid="productwords">
   <lexeme>
-    <phrase>this</phrase>
-    <entry domain="products">
-      <base att="appraisedtype" value="deictic"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>this one</phrase>
     <entry domain="products">
       <base att="appraisedtype" value="this-product"/>
@@ -47,41 +41,6 @@
     <phrase>that camera</phrase>
     <entry domain="products" context="Digital Cameras">
       <base att="appraisedtype" value="other-product"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>it</phrase>
-    <entry domain="products">
-      <base att="appraisedtype" value="3rdperson"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>that</phrase>
-    <entry domain="products">
-      <constraints>
-        <pos>DT</pos>
-      </constraints>
-      <base att="appraisedtype" value="deictic"/>
-    </entry>
-    <entry domain="products">
-<!-- WHAT??  PLEASE EXPLAIN -->
-<!-- ISSUE RESOLVED -->
-      <constraints>
-        <pos>PRP</pos>
-      </constraints>
-      <base att="appraisedtype" value="deictic"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>these</phrase>
-    <entry domain="products">
-      <base att="appraisedtype" value="deictic"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>those</phrase>
-    <entry domain="products">
-      <base att="appraisedtype" value="deictic"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -1544,12 +1503,6 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>that company</phrase>
-    <entry domain="products">
-      <base att="appraisedtype" value="reference"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>company</phrase>
     <entry domain="products">
       <base att="appraisedtype" value="company"/>
@@ -1559,12 +1512,6 @@
     <phrase>manufacturer</phrase>
     <entry domain="products">
       <base att="appraisedtype" value="company"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>other companies</phrase>
-    <entry domain="products">
-      <base att="appraisedtype" value="reference"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -1650,7 +1597,7 @@
   </lexeme>
   <lexeme>
     <phrase>feature set</phrase>
-    <entry domain="products" context="*">
+    <entry domain="products">
       <base att="appraisedtype" value="integral"/>
     </entry>
   </lexeme>
@@ -1674,19 +1621,19 @@
   </lexeme>
   <lexeme>
     <phrase>panel</phrase>
-    <entry domain="products" context="*">
+    <entry domain="products">
       <base att="appraisedtype" value="integral"/>
     </entry>
   </lexeme>
   <lexeme>
     <phrase>piece</phrase>
-    <entry domain="products" context="*">
+    <entry domain="products">
       <base att="appraisedtype" value="integral"/>
     </entry>
   </lexeme>
   <lexeme>
     <phrase>pieces</phrase>
-    <entry domain="products" context="*">
+    <entry domain="products">
       <base att="appraisedtype" value="integral"/>
     </entry>
   </lexeme>
@@ -1732,4 +1679,105 @@
       <base att="appraisedtype" value="experience"/>
     </entry>
   </lexeme>
+
+   <lexeme>
+      <phrase>this</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="deictic"/>
+      </entry>
+   </lexeme>
+
+   <lexeme>
+      <phrase>that</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="deictic"/>
+      </entry>
+   </lexeme>
+
+   <lexeme>
+      <phrase>these</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="deictic"/>
+      </entry>
+   </lexeme>
+
+   <lexeme>
+      <phrase>those</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="deictic"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>he</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>she</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>her</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>him</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>it</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>they</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>them</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="3rdperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>I</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="1stperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>we</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="1stperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>us</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="1stperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>me</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="1stperson"/>
+      </entry>
+   </lexeme>
+   <lexeme>
+      <phrase>you</phrase>
+      <entry domain="products">
+	 <base att="appraisedtype" value="2ndperson"/>
+      </entry>
+   </lexeme>
+
 </lexicon>
