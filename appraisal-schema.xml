@@ -24,6 +24,7 @@
 	    </value>
 	    <value name="satisfaction">
 	       <value name="ennui"/>
+	       <value name="displeasure"/>
 	       <value name="pleasure"/>
 	       <value name="interest"/>
 	    </value>

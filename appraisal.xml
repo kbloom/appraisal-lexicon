@@ -11623,7 +11623,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="comfort"/>
+      <base att="attitude" value="pleasure"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -11688,7 +11688,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="trust"/>
+      <base att="attitude" value="security"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -12228,7 +12228,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="pleasant"/>
+      <base att="attitude" value="pleasure"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -12251,7 +12251,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="pleasant"/>
+      <base att="attitude" value="pleasure"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -12264,7 +12264,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="pleasant"/>
+      <base att="attitude" value="pleasure"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -12277,7 +12277,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="pleasant"/>
+      <base att="attitude" value="pleasure"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13475,7 +13475,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13706,7 +13706,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="disquiet"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13719,7 +13719,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -13732,7 +13732,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13745,7 +13745,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -13768,7 +13768,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="disquiet"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13781,7 +13781,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="fear"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13794,7 +13794,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="fear"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13807,7 +13807,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="fear"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13820,7 +13820,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13833,7 +13833,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="antipathy"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13846,7 +13846,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13859,7 +13859,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13872,7 +13872,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13911,7 +13911,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13924,7 +13924,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="ennui"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13950,7 +13950,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="impact"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -13963,7 +13963,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -13976,7 +13976,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -13989,7 +13989,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="normality"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14012,7 +14012,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14025,7 +14025,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14038,7 +14038,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="normality"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14051,7 +14051,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14064,7 +14064,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14077,7 +14077,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14090,7 +14090,7 @@
       <constraints>
         <pos>JJR</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="cheer"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -14113,7 +14113,7 @@
       <constraints>
         <pos>JJR</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="interest"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -14126,7 +14126,7 @@
       <constraints>
         <pos>JJR</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="affection"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -14139,7 +14139,7 @@
       <constraints>
         <pos>JJR</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="affection"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -14152,7 +14152,7 @@
       <constraints>
         <pos>JJS</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="affection"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="max"/>
@@ -14165,7 +14165,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="affection"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14178,7 +14178,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14191,7 +14191,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="interest"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14204,7 +14204,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="cheer"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14217,7 +14217,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="cheer"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14230,7 +14230,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14243,7 +14243,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="pleasure"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14256,7 +14256,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="interest"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14269,7 +14269,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="interest"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14282,7 +14282,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="interest"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14295,7 +14295,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="affection"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14308,7 +14308,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="cheer"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14321,7 +14321,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="cheer"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -14334,20 +14334,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="median"/>
-      <base att="focus" value="median"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>keenly</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="cheer"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14360,7 +14347,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="pleasure"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14378,25 +14365,12 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>sanguinely</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <base att="attitude" value="affect"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="median"/>
-      <base att="focus" value="median"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>satisfiedly</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="pleasure"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14409,7 +14383,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14422,20 +14396,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
-      <base att="orientation" value="positive"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="median"/>
-      <base att="focus" value="median"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>togetherly</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="affection"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14448,7 +14409,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="disquiet"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14457,16 +14418,6 @@
   </lexeme>
   <lexeme>
     <phrase>awfully</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <base att="attitude" value="affect"/>
-      <base att="orientation" value="negative"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="force" value="high"/>
-      <base att="focus" value="median"/>
-    </entry>
     <entry domain="appraisal">
       <constraints>
         <pos>RB</pos>
@@ -14490,7 +14441,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14503,7 +14454,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14516,7 +14467,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14529,7 +14480,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14542,7 +14493,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14555,7 +14506,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14568,7 +14519,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="fear"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14581,7 +14532,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="displeasure"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -14594,7 +14545,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14607,7 +14558,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14620,7 +14571,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="disquiet"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14633,7 +14584,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="disquiet"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14646,7 +14597,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="disquiet"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14659,7 +14610,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14672,7 +14623,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14685,7 +14636,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14698,7 +14649,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="ennui"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14724,7 +14675,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="impact"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14757,7 +14708,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="surprise"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14770,7 +14721,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14783,7 +14734,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14796,7 +14747,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="propriety"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -14809,7 +14760,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="surprise"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
@@ -22781,7 +22732,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -22807,7 +22758,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -22820,7 +22771,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -22833,7 +22784,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="displeasure"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -22846,7 +22797,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -22872,7 +22823,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -22885,7 +22836,7 @@
       <constraints>
         <pos>RB</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
@@ -23720,7 +23671,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="displeasure"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
@@ -24450,7 +24401,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="composition"/>
+      <base att="attitude" value="complexity"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
@@ -24658,7 +24609,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="displeasure"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
@@ -24828,7 +24779,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
@@ -24841,7 +24792,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="pleasure"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
@@ -24859,29 +24810,6 @@
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
       <base att="force" value="max"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>manic</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="affect"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="positive"/>
-      <base att="force" value="median"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="capacity"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
-      <base att="force" value="median"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -25094,19 +25022,6 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>frantic</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="affect"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
-      <base att="force" value="median"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>irresistible</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -25117,19 +25032,6 @@
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
       <base att="force" value="high"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>harmless</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="social-sanction"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="positive"/>
-      <base att="force" value="low"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -25177,7 +25079,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
@@ -25276,19 +25178,6 @@
         <pos>JJ</pos>
       </constraints>
       <base att="attitude" value="tenacity"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="positive"/>
-      <base att="force" value="median"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>classical</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="appreciation"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
@@ -25428,7 +25317,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
@@ -25807,19 +25696,6 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>limitless</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="composition"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="positive"/>
-      <base att="force" value="median"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>indifferent</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -26092,7 +25968,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="disquiet"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
@@ -26109,19 +25985,6 @@
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
-      <base att="force" value="median"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>dizzy</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="affect"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
       <base att="force" value="median"/>
     </entry>
   </lexeme>
@@ -26271,7 +26134,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="interest"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
@@ -26288,19 +26151,6 @@
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
-      <base att="force" value="median"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>imprecise</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="composition"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
       <base att="force" value="median"/>
     </entry>
   </lexeme>
@@ -26346,7 +26196,7 @@
   <lexeme>
     <phrase>mild - mannered</phrase>
     <entry domain="appraisal">
-      <base att="attitude" value="social-sanction"/>
+      <base att="attitude" value="propriety"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
@@ -26460,7 +26310,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="disquiet"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
@@ -26532,7 +26382,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="disquiet"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
@@ -26545,7 +26395,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="disquiet"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
@@ -26558,7 +26408,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="misery"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
@@ -26604,7 +26454,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="confidence"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
@@ -26617,7 +26467,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att="attitude" value="affect"/>
+      <base att="attitude" value="affection"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="positive"/>
@@ -27364,16 +27214,6 @@
         <pos>JJ</pos>
       </constraints>
       <base att="attitude" value="propriety"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
-      <base att="force" value="median"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <base att="attitude" value="affect"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
