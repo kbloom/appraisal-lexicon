@@ -1,0 +1,10 @@
+<!DOCTYPE metadata SYSTEM "lexicon-metadata.dtd">
+<metadata fileid="news-schema">
+   <domain name="news"/>
+
+   <attribute name="appraisedtype" domain="news" type="taxonomy">
+      <value name="thing">
+      </value>
+   </attribute>
+</metadata>
+
