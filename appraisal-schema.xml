@@ -11,27 +11,19 @@
 	 <value name="affect">
 	    <!-- how do I feel? The word describes an emotion -->
 	    <value name="happiness">
-	       <value name="misery"/>
-	       <value name="antipathy"/>
-	       <value name="cheer"/>
-	       <value name="affection"/>
+	       <value name="cheer"/> <!-- and misery -->
+	       <value name="affection"/> <!-- and antipathy-->
 	    </value>
 	    <value name="security">
-	       <value name="disquiet"/>
 	       <value name="surprise"/>
-	       <value name="confidence"/>
+	       <value name="confidence"/> <!-- and disquiet -->
 	       <value name="trust"/>
 	    </value>
 	    <value name="satisfaction">
-	       <value name="ennui"/>
-	       <value name="displeasure"/>
-	       <value name="pleasure"/>
-	       <value name="interest"/>
+	       <value name="pleasure"/><!-- and displeasure -->
+	       <value name="interest"/><!-- and ennui -->
 	    </value>
-	    <value name="inclination">
-	       <value name="fear"/>
-	       <value name="desire"/>
-	    </value>
+	    <value name="inclination"/><!--both subtypes: fear and desire -->
 	 </value>
 	 <value name="appreciation">
 	    <value name="composition">
