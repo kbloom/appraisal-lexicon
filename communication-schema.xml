@@ -1,4 +1,6 @@
-<!DOCTYPE metadata SYSTEM "lexicon-metadata.dtd">
+<!DOCTYPE metadata "-//IIT/DTD Lexicon Schema"
+   "http://lingcog.iit.edu/~bloom/dtd/lexicon-metadata.dtd">
+
 <metadata fileid="communication-schema">
    <domain name="communication"/>
    <attribute domain="communication" name="group" type="taxonomy">

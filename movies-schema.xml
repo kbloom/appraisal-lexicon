@@ -1,4 +1,5 @@
-<!DOCTYPE metadata SYSTEM "lexicon-metadata.dtd">
+<!DOCTYPE metadata "-//IIT/DTD Lexicon Schema"
+   "http://lingcog.iit.edu/~bloom/dtd/lexicon-metadata.dtd">
 <metadata fileid="movies-schema">
    <domain name="movies"/>
 
