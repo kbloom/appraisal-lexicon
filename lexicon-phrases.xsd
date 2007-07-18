@@ -21,7 +21,7 @@
       <xs:sequence>
         <xs:element ref="constraints" minOccurs="0" />
         <xs:sequence>
-          <xs:choice>
+          <xs:choice minOccurs="1" maxOccurs="unbounded">
             <xs:element ref="base" />
             <xs:element ref="modify" />
             <xs:element ref="set" />
