@@ -1,0 +1,214 @@
+<lexicon fileid="deixis">
+  <lexeme>
+    <phrase>this</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="near"/>
+      <base att="mood" value="determinative"/>
+      <base att="number" value="singular"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>that</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="far"/>
+      <base att="mood" value="determinative"/>
+      <base att="number" value="singular"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>these</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="near"/>
+      <base att="mood" value="determinative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>those</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="far"/>
+      <base att="mood" value="determinative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>the</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="nonselective"/>
+      <base att="mood" value="determinative"/>
+      <base att="number" value="singular"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>my</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="interactant"/>
+      <base att="mood" value="determinative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>your</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="interactant"/>
+      <base att="mood" value="determinative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>our</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="interactant"/>
+      <base att="mood" value="determinative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>his</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="conscious"/>
+      <base att="mood" value="determinative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>her</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="conscious"/>
+      <base att="mood" value="determinative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>its</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="nonconscious"/>
+      <base att="mood" value="determinative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>their</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="conscious"/>
+      <base att="mood" value="determinative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>'s</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="conscious"/>
+      <base att="mood" value="determinative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>which</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="demonstrative"/>
+      <base att="mood" value="interrogative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>what</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="demonstrative"/>
+      <base att="mood" value="interrogative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>whose</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="personal"/>
+      <base att="mood" value="interrogative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>whichever</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="demonstrative"/>
+      <base att="mood" value="interrogative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>whatever</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="demonstrative"/>
+      <base att="mood" value="interrogative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>whoseever</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="personal"/>
+      <base att="mood" value="interrogative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>each</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="total"/>
+      <base att="number" value="singular"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>every</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="total"/>
+      <base att="number" value="singular"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>one</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="partial"/>
+      <base att="number" value="singular"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>a</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="partial"/>
+      <base att="number" value="singular"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>an</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="partial"/>
+      <base att="number" value="singular"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>neither</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="total"/>
+      <base att="number" value="singular"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>either</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="partial"/>
+      <base att="number" value="singular"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>both</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="total"/>
+      <base att="number" value="plural"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>all</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="total"/>
+      <base att="number" value="plural"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>some</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="partial"/>
+      <base att="number" value="plural"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>no</phrase>
+    <entry domain="deixis">
+      <base att="deixis" value="total"/>
+    </entry>
+  </lexeme>
+</lexicon>

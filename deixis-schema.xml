@@ -1,0 +1,39 @@
+<metadata fileid="deixis-schema">
+   <domain name="deixis"/>
+   <attribute domain="deixis" name="deixis" type="taxonomy">
+      <!--simplified from Halliday & Matthiessen IFG3 p313-->
+      <value name="deixis">
+	 <value name="nonspecific">
+	    <value name="total"/>
+	    <value name="partial"/>
+	 </value>
+	 <value name="specific">
+	    <value name="personal">
+	       <value name="interactant"/>
+	       <value name="noninteractant">
+		  <value name="conscious"/>
+		  <value name="nonconscious"/>
+	       </value>
+	    </value>
+	    <value name="demonstrative">
+	       <value name="nonselective"/>
+	       <value name="selective">
+		  <value name="near"/>
+		  <value name="far"/>
+	       </value>
+	    </value>
+	 </value>
+      </value>
+   </attribute>
+   <attribute domain="deixis" name="mood" type="cline">
+      <maximum name="determinative"/>
+      <flippoint/>
+      <minimum name="interrogative"/>
+   </attribute>
+   <attribute domain="deixis" name="number" type="cline">
+      <maximum name="plural"/>
+      <flippoint name="unspecified"/>
+      <minimum name="singular"/>
+   </attribute>
+</metadata>
+
