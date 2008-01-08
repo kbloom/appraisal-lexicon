@@ -20,6 +20,7 @@
     <entry domain="deixis">
       <base att="deixis" value="near"/>
       <base att="mood" value="determinative"/>
+      <base att="number" value="plural"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -27,6 +28,7 @@
     <entry domain="deixis">
       <base att="deixis" value="far"/>
       <base att="mood" value="determinative"/>
+      <base att="number" value="plural"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -42,6 +44,7 @@
     <entry domain="deixis">
       <base att="deixis" value="interactant"/>
       <base att="mood" value="determinative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -49,6 +52,7 @@
     <entry domain="deixis">
       <base att="deixis" value="interactant"/>
       <base att="mood" value="determinative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -56,6 +60,7 @@
     <entry domain="deixis">
       <base att="deixis" value="interactant"/>
       <base att="mood" value="determinative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -63,6 +68,7 @@
     <entry domain="deixis">
       <base att="deixis" value="conscious"/>
       <base att="mood" value="determinative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -70,6 +76,7 @@
     <entry domain="deixis">
       <base att="deixis" value="conscious"/>
       <base att="mood" value="determinative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -77,6 +84,7 @@
     <entry domain="deixis">
       <base att="deixis" value="nonconscious"/>
       <base att="mood" value="determinative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -84,6 +92,7 @@
     <entry domain="deixis">
       <base att="deixis" value="conscious"/>
       <base att="mood" value="determinative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -91,6 +100,7 @@
     <entry domain="deixis">
       <base att="deixis" value="conscious"/>
       <base att="mood" value="determinative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -98,6 +108,7 @@
     <entry domain="deixis">
       <base att="deixis" value="demonstrative"/>
       <base att="mood" value="interrogative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -105,6 +116,7 @@
     <entry domain="deixis">
       <base att="deixis" value="demonstrative"/>
       <base att="mood" value="interrogative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -112,6 +124,7 @@
     <entry domain="deixis">
       <base att="deixis" value="personal"/>
       <base att="mood" value="interrogative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -119,6 +132,7 @@
     <entry domain="deixis">
       <base att="deixis" value="demonstrative"/>
       <base att="mood" value="interrogative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -126,6 +140,7 @@
     <entry domain="deixis">
       <base att="deixis" value="demonstrative"/>
       <base att="mood" value="interrogative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -133,6 +148,7 @@
     <entry domain="deixis">
       <base att="deixis" value="personal"/>
       <base att="mood" value="interrogative"/>
+      <base att="number" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -140,6 +156,7 @@
     <entry domain="deixis">
       <base att="deixis" value="total"/>
       <base att="number" value="singular"/>
+      <base att="mood" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -147,6 +164,7 @@
     <entry domain="deixis">
       <base att="deixis" value="total"/>
       <base att="number" value="singular"/>
+      <base att="mood" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -154,6 +172,7 @@
     <entry domain="deixis">
       <base att="deixis" value="partial"/>
       <base att="number" value="singular"/>
+      <base att="mood" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -161,6 +180,7 @@
     <entry domain="deixis">
       <base att="deixis" value="partial"/>
       <base att="number" value="singular"/>
+      <base att="mood" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -168,6 +188,7 @@
     <entry domain="deixis">
       <base att="deixis" value="partial"/>
       <base att="number" value="singular"/>
+      <base att="mood" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -175,6 +196,7 @@
     <entry domain="deixis">
       <base att="deixis" value="total"/>
       <base att="number" value="singular"/>
+      <base att="mood" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -182,6 +204,7 @@
     <entry domain="deixis">
       <base att="deixis" value="partial"/>
       <base att="number" value="singular"/>
+      <base att="mood" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -189,6 +212,7 @@
     <entry domain="deixis">
       <base att="deixis" value="total"/>
       <base att="number" value="plural"/>
+      <base att="mood" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -196,6 +220,7 @@
     <entry domain="deixis">
       <base att="deixis" value="total"/>
       <base att="number" value="plural"/>
+      <base att="mood" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -203,12 +228,15 @@
     <entry domain="deixis">
       <base att="deixis" value="partial"/>
       <base att="number" value="plural"/>
+      <base att="mood" value="unspecified"/>
     </entry>
   </lexeme>
   <lexeme>
     <phrase>no</phrase>
     <entry domain="deixis">
       <base att="deixis" value="total"/>
+      <base att="number" value="unspecified"/>
+      <base att="mood" value="unspecified"/>
     </entry>
   </lexeme>
 </lexicon>

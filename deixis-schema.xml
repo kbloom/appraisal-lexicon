@@ -27,7 +27,7 @@
    </attribute>
    <attribute domain="deixis" name="mood" type="cline">
       <maximum name="determinative"/>
-      <flippoint/>
+      <flippoint name="unspecified"/>
       <minimum name="interrogative"/>
    </attribute>
    <attribute domain="deixis" name="number" type="cline">
