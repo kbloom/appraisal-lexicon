@@ -1,4 +1,4 @@
-<metadata fileid="appraisalstuff" version="$Id$">
+<metadata fileid="appraisal-schema" version="$Id$">
    <domain name="appraisal"/>
 
    <attribute domain="appraisal" name="attitude" type="taxonomy">

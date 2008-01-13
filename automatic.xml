@@ -1,4 +1,4 @@
-<metadata fileid="automatic" version="$Id$">
+<metadata fileid="automatic-schema" version="$Id$">
    <domain name="automatic"/>
    
    <attribute name="polarity" domain="automatic" type="cline">

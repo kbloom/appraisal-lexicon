@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexicon fileid="moviesmore" version="$Id$">
+<lexicon fileid="movies-more" version="$Id$">
   <lexeme>
     <phrase>guy</phrase>
     <entry domain="movies">
