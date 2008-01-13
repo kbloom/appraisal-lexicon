@@ -1,5 +1,5 @@
 
-<metadata fileid="products-schema">
+<metadata fileid="products-schema" version="$Id">
    <domain name="products"/>
 
    <attribute name="appraisedtype" domain="products" type="taxonomy">

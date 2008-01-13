@@ -1,4 +1,4 @@
-<metadata fileid="deixis-schema">
+<metadata fileid="deixis-schema" version="$Id$">
    <domain name="deixis"/>
    <attribute domain="deixis" name="deixis" type="taxonomy">
       <!--simplified from Halliday & Matthiessen IFG3 p313-->

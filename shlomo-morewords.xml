@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="lexicon.xsl"?>
 
 <!-- vim: set sts=2 sw=2: -->
-<lexicon fileid="shlomos-rough">
+<lexicon fileid="shlomos-rough" version="$Id">
    <lexeme>
       <phrase>halcyon</phrase>
       <entry domain="appraisal">

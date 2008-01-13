@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexicon fileid="productwords">
+<lexicon fileid="productwords" version="$Id">
   <lexeme>
     <phrase>this one</phrase>
     <entry domain="products">

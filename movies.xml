@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexicon fileid="moviewords">
+<lexicon fileid="moviewords" version="$Id$">
    <lexeme>
       <phrase>climax</phrase>
       <entry domain="movies">

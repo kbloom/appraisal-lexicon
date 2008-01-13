@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- vim: set sts=2 sw=2: -->
-<lexicon fileid="communication">
+<lexicon fileid="communication" version="$Id$">
   <lexeme>
     <phrase>accept</phrase>
     <entry domain="communication">

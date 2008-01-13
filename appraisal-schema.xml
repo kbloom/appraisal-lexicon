@@ -1,5 +1,5 @@
 <metadata fileid="appraisalstuff">
-   <domain name="appraisal"/>
+   <domain name="appraisal" version="$Id$"/>
 
    <attribute domain="appraisal" name="attitude" type="taxonomy">
       <!-- allowed operatins include:

@@ -1,4 +1,4 @@
-<metadata fileid="movies-schema">
+<metadata fileid="movies-schema" version="$Id$">
    <domain name="movies"/>
 
    <attribute name="appraisedtype" domain="movies" type="taxonomy">

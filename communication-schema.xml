@@ -1,5 +1,5 @@
 
-<metadata fileid="communication-schema">
+<metadata fileid="communication-schema" version="$Id$">
    <domain name="communication"/>
    <attribute domain="communication" name="group" type="taxonomy">
       <value name="root">

@@ -1,5 +1,5 @@
 
-<metadata fileid="news-schema">
+<metadata fileid="news-schema" version="$Id">
    <domain name="news"/>
 
    <attribute name="appraisedtype" domain="news" type="taxonomy">

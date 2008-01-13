@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="lexicon.xsl"?>
 <!-- vim: set sts=2 sw=2: -->
-<lexicon fileid="exported">
+<lexicon fileid="exported" version="$Id$">
   <lexeme>
     <phrase>an</phrase>
     <entry domain="appraisal">
