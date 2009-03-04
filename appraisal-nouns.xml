@@ -5740,6 +5740,7 @@
       <modify att="force" type="increase"/>
     </entry>
   </lexeme>
+  <!-- TODO: Fix the chunker so I can re-enable this
   <lexeme>
     <phrase>pretty much</phrase>
     <entry domain="appraisal">
@@ -5748,7 +5749,7 @@
       </constraints>
       <modify att="force" type="decrease"/>
     </entry>
-  </lexeme>
+  </lexeme>-->
   <lexeme>
     <phrase>real</phrase>
     <entry domain="appraisal">
@@ -5823,15 +5824,6 @@
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
-      </constraints>
-      <modify att="force" type="increase"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>such a</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ DT</pos>
       </constraints>
       <modify att="force" type="increase"/>
     </entry>
@@ -17192,40 +17184,6 @@
         <pos>NN</pos>
       </constraints>
       <base att="attitude" value="complexity"/>
-      <base att="force" value="median"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
-      <base att="polarity" value="unmarked"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>good deal</phrase>
-    <entry domain="appraisal">
-      <base att="attitude" value="quality"/>
-      <base att="force" value="median"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
-      <base att="polarity" value="unmarked"/>
-    </entry>
-    <entry domain="appraisal">
-      <base att="attitude" value="valuation"/>
-      <base att="force" value="median"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
-      <base att="polarity" value="unmarked"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>great deal</phrase>
-    <entry domain="appraisal">
-      <base att="attitude" value="quality"/>
-      <base att="force" value="median"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
-      <base att="polarity" value="unmarked"/>
-    </entry>
-    <entry domain="appraisal">
-      <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
