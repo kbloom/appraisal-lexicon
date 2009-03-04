@@ -548,6 +548,12 @@
       </constraints>
       <modify att="force" type="increase"/>
     </entry>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <modify att="force" type="increase"/>
+    </entry>
   </lexeme>
   <lexeme>
     <phrase>rather</phrase>
@@ -638,6 +644,12 @@
     <entry domain="appraisal">
       <constraints>
         <pos>RB</pos>
+      </constraints>
+      <modify att="force" type="increase"/>
+    </entry>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>JJR</pos>
       </constraints>
       <modify att="force" type="increase"/>
     </entry>
@@ -23169,6 +23181,12 @@
       </constraints>
       <modify att="force" type="decrease"/>
     </entry>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>RBR</pos>
+      </constraints>
+      <modify att="force" type="decrease"/>
+    </entry>
   </lexeme>
   <lexeme>
     <phrase>basic</phrase>
@@ -23353,16 +23371,6 @@
       <base att="focus" value="sharp"/>
       <base att="orientation" value="positive"/>
       <base att="force" value="max"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>absolute</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <modify att="force" type="increase"/>
-      <modify att="focus" type="increase"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -27986,15 +27994,6 @@
   </lexeme>
   <lexeme>
     <phrase>moderate</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <modify att="force" type="decrease"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>slight</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="lexicon.xsl"?>
-<lexicon fileid="appraisal-nouns-handsearched" version="$Id: nouns.xml 4384 2008-01-13 18:24:52Z bloom $">
+<lexicon fileid="appraisal-nouns" version="$Id$">
   <lexeme>
     <phrase>affliction</phrase>
     <entry domain="appraisal">
@@ -2201,12 +2201,6 @@
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <modify att="force" type="decrease"/>
     </entry>
     <entry domain="appraisal">
       <constraints>
@@ -5527,15 +5521,6 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>big</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <modify att="force" type="increase"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>bloody</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -5560,15 +5545,6 @@
         <pos>NN</pos>
       </constraints>
       <modify att="force" type="increase"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>complete</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <modify att="force" type="maximize"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -5671,15 +5647,6 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>huge</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <modify att="force" type="increase"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>incredible degree of</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -5710,15 +5677,6 @@
         <pos>VBZ</pos>
       </constraints>
       <modify att="orientation" type="flip"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>less</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RBR</pos>
-      </constraints>
-      <modify att="force" type="decrease"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -5758,34 +5716,7 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>minor</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <modify att="force" type="decrease"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>monumental</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <modify att="force" type="increase"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>more</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJR</pos>
-      </constraints>
-      <modify att="force" type="increase"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>much</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -5821,27 +5752,12 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>quite</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <modify att="focus" type="increase"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>real</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
       </constraints>
       <modify att="force" type="increase"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>scarcely</phrase>
-    <entry domain="appraisal">
-      <modify att="orientation" type="flip"/>
     </entry>
   </lexeme>
   <lexeme>
@@ -5906,15 +5822,6 @@
   </lexeme>
   <lexeme>
     <phrase>strong</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <modify att="force" type="increase"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>such</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
