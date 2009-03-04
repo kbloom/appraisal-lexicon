@@ -5785,15 +5785,6 @@
     </entry>
   </lexeme>
   <lexeme>
-    <phrase>much</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>JJ</pos>
-      </constraints>
-      <modify att="force" type="increase"/>
-    </entry>
-  </lexeme>
-  <lexeme>
     <phrase>outsized</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -5818,15 +5809,6 @@
         <pos>RB RB</pos>
       </constraints>
       <modify att="force" type="decrease"/>
-    </entry>
-  </lexeme>
-  <lexeme>
-    <phrase>quite</phrase>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>RB</pos>
-      </constraints>
-      <modify att="focus" type="increase"/>
     </entry>
   </lexeme>
   <lexeme>
