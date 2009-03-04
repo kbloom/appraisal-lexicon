@@ -516,7 +516,6 @@
       <base att="polarity" value="unmarked"/>
     </entry>
     <entry domain="appraisal">
-      <constraints> </constraints>
       <base att="attitude" value="confidence"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -537,7 +536,6 @@
       <base att="polarity" value="unmarked"/>
     </entry>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="confidence"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -6473,8 +6471,6 @@
   <lexeme>
     <phrase>mother fucker</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -6511,8 +6507,6 @@
   <lexeme>
     <phrase>son of a bitch</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -6692,8 +6686,6 @@
   <lexeme>
     <phrase>good time</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="impact"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -6899,8 +6891,6 @@
   <lexeme>
     <phrase>pain in the neck</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="pleasure"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -6911,8 +6901,6 @@
   <lexeme>
     <phrase>pain in the ass</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="pleasure"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -7213,8 +7201,6 @@
   <lexeme>
     <phrase>common man</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="normality"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -7225,8 +7211,6 @@
   <lexeme>
     <phrase>common person</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="normality"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -7510,8 +7494,6 @@
   <lexeme>
     <phrase>jail bird</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -7548,8 +7530,6 @@
   <lexeme>
     <phrase>yard bird</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -8475,8 +8455,6 @@
   <lexeme>
     <phrase>end of the world</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="confidence"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -9013,8 +8991,6 @@
   <lexeme>
     <phrase>soft touch</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="capacity"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -9038,8 +9014,6 @@
   <lexeme>
     <phrase>motley fool</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="capacity"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -9268,8 +9242,6 @@
   <lexeme>
     <phrase>guilty conscience</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="confidence"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -9280,8 +9252,6 @@
   <lexeme>
     <phrase>guilt feelings</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="confidence"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -9292,8 +9262,6 @@
   <lexeme>
     <phrase>guilt trip</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="confidence"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -9317,8 +9285,6 @@
   <lexeme>
     <phrase>hard knocks</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="complexity"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -10096,8 +10062,6 @@
   <lexeme>
     <phrase>lone wolf</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="normality"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -10108,8 +10072,6 @@
   <lexeme>
     <phrase>lone hand</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="normality"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -10159,8 +10121,6 @@
   <lexeme>
     <phrase>bad luck</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -10171,8 +10131,6 @@
   <lexeme>
     <phrase>tough luck</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -10183,8 +10141,6 @@
   <lexeme>
     <phrase>ill luck</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -10195,8 +10151,6 @@
   <lexeme>
     <phrase>good fortune</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -10220,8 +10174,6 @@
   <lexeme>
     <phrase>good luck</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -10908,8 +10860,6 @@
   <lexeme>
     <phrase>panic attack</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="surprise"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -10959,8 +10909,6 @@
   <lexeme>
     <phrase>closed book</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="complexity"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -11779,8 +11727,6 @@
   <lexeme>
     <phrase>little terror</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -11791,8 +11737,6 @@
   <lexeme>
     <phrase>holy terror</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -11803,8 +11747,6 @@
   <lexeme>
     <phrase>fast one</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -12488,7 +12430,6 @@
       <base att="polarity" value="unmarked"/>
     </entry>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="quality"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -13435,8 +13376,6 @@
   <lexeme>
     <phrase>good manners</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -13486,8 +13425,6 @@
   <lexeme>
     <phrase>creative thinking</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="impact"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -13628,7 +13565,6 @@
   <lexeme>
     <phrase>low self-respect</phrase>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -13639,7 +13575,6 @@
   <lexeme>
     <phrase>high self-respect</phrase>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -13650,7 +13585,6 @@
   <lexeme>
     <phrase>low self-esteem</phrase>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -13661,7 +13595,6 @@
   <lexeme>
     <phrase>high self-esteem</phrase>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -13672,7 +13605,6 @@
   <lexeme>
     <phrase>low self-regard</phrase>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -13683,7 +13615,6 @@
   <lexeme>
     <phrase>high self-regard</phrase>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -13694,7 +13625,6 @@
   <lexeme>
     <phrase>low self-worth</phrase>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -13705,7 +13635,6 @@
   <lexeme>
     <phrase>high self-worth</phrase>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -14581,8 +14510,6 @@
   <lexeme>
     <phrase>good will</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -14847,7 +14774,6 @@
       <base att="polarity" value="unmarked"/>
     </entry>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -14868,7 +14794,6 @@
       <base att="polarity" value="unmarked"/>
     </entry>
     <entry domain="appraisal">
-      <constraints/>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -16154,8 +16079,6 @@
   <lexeme>
     <phrase>simple mindedness</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="capacity"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -16694,8 +16617,6 @@
     <phrase>article of faith</phrase>
     <!-- very few concordance lines for propriety in evidence-->
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="tenacity"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -17073,8 +16994,6 @@
   <lexeme>
     <phrase>loved one</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="affection"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -17282,8 +17201,6 @@
   <lexeme>
     <phrase>good deal</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="quality"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -17291,8 +17208,6 @@
       <base att="polarity" value="unmarked"/>
     </entry>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -17303,8 +17218,6 @@
   <lexeme>
     <phrase>great deal</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="quality"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -17312,8 +17225,6 @@
       <base att="polarity" value="unmarked"/>
     </entry>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="valuation"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -17755,8 +17666,6 @@
   <lexeme>
     <phrase>rest period</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="confidence"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -17975,8 +17884,6 @@
   <lexeme>
     <phrase>weak point</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="quality"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -18000,8 +17907,6 @@
   <lexeme>
     <phrase>strong suit</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="capacity"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -18012,8 +17917,6 @@
   <lexeme>
     <phrase>long suit</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="capacity"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
@@ -18063,8 +17966,6 @@
   <lexeme>
     <phrase>strong point</phrase>
     <entry domain="appraisal">
-      <constraints>
-        </constraints>
       <base att="attitude" value="capacity"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
