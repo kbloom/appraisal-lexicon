@@ -46,7 +46,6 @@
     <phrase>too</phrase>
     <entry domain="appraisal">
       <set att="orientation" value="negative"/>
-      <set att="polarity" value="marked"/>
     </entry>
   </lexeme>
   <lexeme>
