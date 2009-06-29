@@ -1,0 +1,10 @@
+<metadata fileid="turney-schema">
+   <domain name="turney"/>
+
+   <attribute domain="turney" name="orientation" type="cline">
+      <intermediate name="positive"/>
+      <flippoint name="neutral"/>
+      <intermediate name="negative"/>
+   </attribute>
+</metadata>
+

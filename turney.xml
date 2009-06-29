@@ -1,0 +1,8020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- vim: set sts=2 sw=2: -->
+<lexicon fileid="turney-hk">
+  <lexeme>
+    <phrase>spacious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well positioned</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dependable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>outstanding</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>informative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>heavy duty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>knowledgeable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>first class</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>excellent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>high performance</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>affordable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unparalleled</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enthusiastic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>attentive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well managed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>streamlined</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stylish</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>durable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>record setting</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>luxurious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stainless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unratified</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>scenic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>upscale</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>certified</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cost effective</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>renowned</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>convenient</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>seamless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cozy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>versatile</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fluent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well run</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>high growth</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>comfortable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inspirational</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>supportive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>innovative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>crisp</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>timely</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sturdy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>courteous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>elegant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enviable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well connected</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>above average</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vibrant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>energetic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>superb</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>exemplary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prestigious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lush</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>nondurable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>informational</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>advantageous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>friendly</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>seasoned</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>distinctive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>better than expected</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>qualified</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>meticulous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>high quality</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>colorful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enjoyable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well regarded</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>commensurate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rewarding</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>impeccable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>analytical</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sleek</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fortunate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>low power</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>secure</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>harmonious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>terrific</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>comprehensive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>outgoing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>invaluable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cooperative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>agile</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>below market</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>refreshing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>smooth</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fast paced</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>relaxed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>breathtaking</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>first rate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>delightful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>robust</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>polished</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>diversified</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cohesive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well received</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>balanced</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>responsive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stimulating</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>talented</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>solid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>exciting</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cheerful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>thoughtful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>generous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lower priced</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>creative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>extensive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lively</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>low cost</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cordial</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well established</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>warm</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>competent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reliable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wide ranging</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>plush</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sincere</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>achievable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>adventurous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>efficient</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>attractive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>nice</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>best performing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well informed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sunny</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>consistent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>accessible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>salable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>portable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>spectacular</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well educated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>welcome</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fastest growing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>essential</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>plenary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enterprising</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ideal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>eclectic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>oversized</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>precise</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>graceful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>premier</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>resistant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fabulous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>conscientious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sparkling</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>thorough</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>charming</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>orderly</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>challenging</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enhanced</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>visionary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>imaginative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>grateful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>thriving</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>abundant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>advanced</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wide</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>helpful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>skilled</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>impressive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inexpensive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reasonable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wonderful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>upbeat</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fast growing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tidy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hard working</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>competitive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>authentic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>respectful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ebullient</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>active</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>expansive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lovely</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>resilient</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>highest ranking</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>delicious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>interested</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>scholarly</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>compact</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>olympic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>neat</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>accurate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>easy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>plentiful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intelligent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>splendid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fantastic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>diligent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>confident</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pleasant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>successful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pertinent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>able</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>beautiful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reputable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>memorable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>expressive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cost saving</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>astute</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>manageable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>brisk</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>avid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>profitable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>steady</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>suitable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rigorous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>quiet</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wholesome</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>trim</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>functional</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fun</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>skillful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reflective</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>quaint</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>perceptive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>keen</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>renewable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prominent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>literate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>established</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>celebrated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>superior</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>effective</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>powerful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vintage</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>instrumental</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ample</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pre eminent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>astronomical</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>healthy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>compatible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>agreeable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>preeminent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intuitive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>exhaustive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>amiable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>gifted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>refined</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>peaceful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>phenomenal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fashionable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>remarkable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>workable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>clean</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fruitful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>proud</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>great</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>key</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>meaningful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>exhilarating</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unfunded</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>trendy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inventive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>marvelous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>faithful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>loyal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unconditional</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>savvy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>conducive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>continuous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>realistic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>satisfying</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>favorable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>productive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>full</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sustainable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fitting</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>placid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>valuable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>gentle</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tremendous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>coherent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>firm</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>less expensive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>safe</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prompt</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hectic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fresh</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>broad</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>open ended</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>verifiable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>smart</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>worthwhile</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fit</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bright</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vigorous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>privileged</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>magnificent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>entertaining</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>strong</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>positive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>forged</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>quick</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>charitable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>practicable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>capable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fast</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>relevant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>straightforward</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>affable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>encouraging</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>frank</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>persuasive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>handy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>handsome</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unlimited</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>good</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>compassionate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>central</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>beneficial</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>impartial</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>appropriate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pricey</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sensible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fine</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stellar</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>usable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>brilliant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>best selling</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>speedy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>awesome</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>appealing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>authoritative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>buoyant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unencumbered</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>adequate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>receptive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>articulate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>soft spoken</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stronger than expected</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>noteworthy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>discreet</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>popular</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>constructive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>definitive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>slim</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sophisticated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>premium</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>chilly</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>assertive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>top</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intimate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tall</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>important</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>opportune</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>open</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>playful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unanimous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>happy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>specific</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>high powered</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>low risk</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ripe</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>definite</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>broad based</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>necessary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>admirable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>concrete</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>voluntary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>minor</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>objective</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intensive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>genuine</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>full scale</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>humane</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>youthful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>calm</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hardy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>polite</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>slender</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>amenable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>experienced</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>heady</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>funded</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>super</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>gorgeous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sure</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>useful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>direct</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>modern</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>modest</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>complex</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>perfect</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>clever</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>truthful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>thrilling</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>honest</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fair</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lucky</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intact</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>high</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>correct</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>venerable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>expert</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>feasible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>self sufficient</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stately</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>legendary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>instructive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>courageous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>forthright</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>forceful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>imperial</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>painless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>nettlesome</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>delicate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rapid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lesser known</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>famed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prolific</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>glad</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>leading</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>clear</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>simple</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>substantive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>consummate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>principled</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rare</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>optimistic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unaudited</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>passionate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>eager</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>scarce</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prosperous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>risk free</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>chic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>desirable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>embattled</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>slight</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pivotal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mindful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>willing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tolerant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prepared</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>glorious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>second tier</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>charismatic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sexy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>recognizable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>catchy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>adept</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ecstatic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>juvenile</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stringent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>natural</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unsure</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>shiny</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intriguing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>strenuous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>byzantine</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tenacious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prudent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>promising</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bogus</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>small</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sound</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>exuberant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>compelling</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>equitable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>familiar</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>primary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>viable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rousing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>decisive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ready</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>scaled down</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bold</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>high ranking</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>universal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>busy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>foolproof</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>large</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>eminent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>time honored</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>uniform</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>large scale</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>original</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>engaging</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>notable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>considerable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>feisty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>growing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unrestricted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>proportionate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>astounding</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>witty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>nonviolent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>victorious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>substantial</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sharp</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>arduous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>flashy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pedestrian</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tentative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>logical</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>shrewd</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>peripheral</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>now defunct</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pure</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>famous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>moving</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>recessionary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>solemn</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>concerted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>believable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>worthy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>proper</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>low rated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>significant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>amicable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rigid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>patient</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>content</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unusual</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>palatable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>nifty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>uneventful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>little known</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wise</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vivid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vast</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>heroic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>moot</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ardent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lucrative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reputed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dramatic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>systematic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rich</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>decent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wide open</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>irresistible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>corrective</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>earnest</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fertile</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>posh</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dear</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>credible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bearish</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>masterful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>low</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ingenious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>booming</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unconventional</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>convincing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>autonomous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hollow</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>opulent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>selective</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>acceptable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>monumental</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>valid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>undisputed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>frozen</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>offbeat</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>respectable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>somber</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>noble</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>maverick</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>explosive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>full fledged</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>elaborate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sustained</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>negligible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>full blown</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sensitive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bull</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>favored</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>humorous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>flagging</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>poetic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>potent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cutthroat</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>primitive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>redundant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wry</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>major</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>illiquid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>overdue</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>animated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>true</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lanky</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>free</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>belated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>indebted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>turbulent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>odd</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>miraculous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>penetrating</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pretty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>epic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>magic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hot</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>better known</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>magical</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>influential</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hard</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>endless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prime</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sober</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unequivocal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dire</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>okay</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>best known</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fatty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sacred</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>debatable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fuzzy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>conspicuous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>predominant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intense</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bulky</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hopeful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lawful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>novel</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bullish</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>holy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>responsible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>independent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mock</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cloudy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>undecided</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>staid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>divine</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>invisible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>revealing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>defunct</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vigilant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>upward</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fervent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>careful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sleepy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dependent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unsatisfactory</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>accommodative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>extravagant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enormous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>edgy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>eternal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>eloquent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mature</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hazardous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>divergent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>live</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>immense</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>scrap</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>alert</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>expensive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>gritty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rough</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>swift</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stuffed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fleeting</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>staunch</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>giant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>subdued</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tedious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>narrow</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>candid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>compulsory</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>straight</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unfamiliar</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>kind</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>giddy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tumultuous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>euphoric</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>deep</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>precious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>predictable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>indefinite</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>conclusive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>steep</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>handicapped</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>preferable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rational</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dim</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>frigid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>glamorous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>grandiose</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mighty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>far reaching</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stiff</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sweeping</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>acrimonious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>deceased</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sporadic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cold</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>conciliatory</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>democratic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>slow moving</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sanguine</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prodigious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>triumphant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cautious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stressful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prohibitive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sweet</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wee</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unadjusted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cumbersome</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>affluent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>faint</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>frequent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dusty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>complacent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fictional</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>big</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mundane</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>passive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>undeveloped</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>profound</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dark</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>restricted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>crowded</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>white</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>needless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tricky</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>infectious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disabled</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unfettered</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>splitting</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>permissible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>immune</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lame duck</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unscathed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>normal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>marginal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>shallow</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>huge</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>replete</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stimulative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rocky</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>slow</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>benign</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tense</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>right</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>icy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bemused</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unraveled</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>funny</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>thorny</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pale</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>controversial</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>impassioned</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unfinished</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>contagious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sympathetic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rogue</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reticent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>understandable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bland</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>manifest</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>choppy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stodgy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>haunting</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stormy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fiery</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sketchy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>insistent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>arresting</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lenient</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>brave</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>indirect</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>complicated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>frustrating</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>deaf</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>indigent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>caustic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>agonizing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intrusive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>slack</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>persistent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>spirited</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>clear cut</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hefty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lax</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>insurmountable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>evasive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>gigantic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>amusing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>brash</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>undaunted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fictitious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fanciful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>seductive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rosy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disinterested</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intermittent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>volatile</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>backward</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>difficult</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>peculiar</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>smug</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>moody</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>empty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>obvious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>puzzling</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>skimpy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>massive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>plausible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>superfluous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inflammatory</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pretentious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unlicensed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>little</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>perilous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>superficial</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>meager</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unyielding</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>second class</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>resurgent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>combative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vociferous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>chaotic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>outspoken</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unexpected</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>idle</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>convoluted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hesitant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>short lived</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>adamant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>extraneous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>uneven</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>noisy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>impossible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>colossal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>captive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>declined</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inactive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>opportunistic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>impersonal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cute</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disadvantaged</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intractable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>obscure</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>uncertain</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ineligible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>legitimate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fierce</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>improbable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>black</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>untested</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>limited</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tepid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>arcane</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>deficient</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>shy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>muddy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sham</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>irate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vague</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>obsolete</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>aloof</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>trivial</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>adverse</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>clandestine</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>less developed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hilarious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cautionary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fragile</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>delinquent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>scant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wealthy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>weary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cash strapped</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>covert</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>secretive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dominant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>grim</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tortuous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>imperfect</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unavailable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>affected</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>feverish</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>banal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>false</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>far fetched</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>nascent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>allergic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bid rigging</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disappointing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>biased</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sinister</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>restrictive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fruitless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unsupported</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inconsistent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>paradoxical</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fugitive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>uninsured</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>crazy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>contradictory</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>impractical</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>harsh</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>battered</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stubborn</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ambivalent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bleak</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>congested</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>insular</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cramped</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>arbitrary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>frantic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>shaky</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>spotty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>brittle</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>problematic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>toxic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>barren</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>underpaid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>meaningless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>gloomy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reluctant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>suspect</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>resigned</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>extreme</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>audacious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bumpy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>harmless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>overt</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>implicit</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>high cost</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>costly</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vain</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ill fated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>anemic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sour</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>scary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>relentless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>troublesome</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lost</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dull</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>abysmal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unclear</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>restless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>strange</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>archaic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>confrontational</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dreary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unsuccessful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>contentious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>undetermined</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>broke</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fragmented</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unneeded</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tenuous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unconfirmed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>doubtful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ambiguous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>widespread</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hungry</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>uncollectible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>offensive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>undocumented</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well publicized</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>naive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>futile</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>savage</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unspecified</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>simplistic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>severe</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>capricious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fateful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>onerous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lonely</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>halt</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>repetitive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>obsessive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>innocuous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unsettled</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mediocre</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>strained</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>foolhardy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inflated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>subversive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unnerved</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>touchy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>useless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mad</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fickle</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cancerous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>life threatening</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lazy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>phony</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lethal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unexplained</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unreasonable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hard hit</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>drastic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>irrelevant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>redeeming</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lame</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>desperate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>prevalent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>preposterous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>leery</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>awkward</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>punishable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>risky</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>precipitous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dead</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>adversarial</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>crude</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unqualified</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>involuntary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inexperienced</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wrongful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>heavy handed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>insignificant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bitter</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>confusing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fell</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>mindless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>terrible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>depressing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>suspicious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>deadly</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>flagrant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>frivolous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>grave</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inflationary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>nonexistent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>flawed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unpredictable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>needy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>murky</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>objectionable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>underdeveloped</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sluggish</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>coercive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>recalcitrant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tired</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>messy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>overzealous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>boring</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>weak</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>moribund</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hard line</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>shabby</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dismal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>silly</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ill</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ominous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>infamous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>impatient</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>abandoned</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>leaky</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>jealous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>abrupt</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inordinate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>frail</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>annoying</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>traumatic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>incomplete</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>timid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>guilty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>intolerable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>threatening</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unconstitutional</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unemployed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>totalitarian</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>skittish</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>overblown</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>questionable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>flimsy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>horrendous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unacceptable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ferocious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>foul</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>outmoded</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fraudulent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>willful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rife</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disturbing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ragged</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>autocratic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>deceptive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>manipulative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>worrisome</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disingenuous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cynical</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>damaging</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>drunken</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>untenable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unwieldy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>awful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>illusory</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>susceptible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ludicrous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bloody</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tragic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>treacherous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>authoritarian</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ridiculous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unforeseen</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unrealistic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>obnoxious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unstable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>self serving</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fractious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>retaliatory</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bizarre</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>afraid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dubious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dangerous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>reckless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ruthless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>insensitive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>harmful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fake</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ramshackle</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>regrettable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sorry</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dislocated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>spurious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>catastrophic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>incorrect</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>shadowy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>erratic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>arrogant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>foolish</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>debilitating</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unwanted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>excessive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lousy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unfulfilled</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>substandard</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>egregious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>high risk</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>predatory</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unresolved</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unskilled</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>indecent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>poisonous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>compulsive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>clumsy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>infected</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unlawful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>negligent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>precarious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>deflationary</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>uncomfortable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unsustainable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hostile</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>strident</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>erroneous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>insufficient</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>aghast</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well intentioned</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>evil</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vehement</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unfriendly</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>distressed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sad</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disruptive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>horrible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>protracted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unwilling</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stagnant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inconclusive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fearful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>discouraging</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fatal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>uneasy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hopeless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>abnormal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>loath</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>drunk</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>torrid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>illogical</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lethargic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wasteful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>petty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>insane</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>illicit</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>malicious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unsophisticated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>suicidal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>crippling</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>monstrous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unworkable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>detrimental</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>discriminatory</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>appalling</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>seedy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vulgar</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>blatant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ineffective</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>murderous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>draconian</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>absurd</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inadequate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>extremist</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>feeble</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>outrageous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>destructive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>greedy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>negative</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pathetic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>brutal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>indifferent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>exorbitant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hurt</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>burdensome</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>impoverished</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sick</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>groundless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>depressed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dumb</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>distraught</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unfavorable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>worthless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vulnerable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>indecisive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>painful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>insolvent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dogged</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>angry</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inflexible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unpopular</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>incapable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rude</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tangled</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unsafe</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hasty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>violent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>impotent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>pessimistic</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hypocritical</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>litigious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>illiterate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>jobless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>defective</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bankrupt</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>uninformed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unproductive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>illegal</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disproportionate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>wrong</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>distressing</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>stupid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>indiscriminate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>notorious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dirty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hysterical</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>undefined</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>selfish</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>careless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inaccurate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unsound</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>scandalous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>rotten</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>obscene</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>abusive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>misguided</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>outdated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>grotesque</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>poor</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unjustified</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>incompatible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>virulent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>corrupt</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>regressive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>disastrous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>invalid</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>insecure</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unwelcome</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>sloppy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unjust</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>misleading</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>imprudent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>uncontrolled</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unnatural</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>irrational</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inferior</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>perverse</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unfounded</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unwise</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ignorant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>faulty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ashamed</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>repressive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>self destructive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unpleasant</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>innocent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inept</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>counterproductive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>tiny</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unprepared</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>vicious</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>listless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unattractive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unfair</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>baseless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inappropriate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>untrue</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bad</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hapless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>incompetent</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unwarranted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unhappy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>inefficient</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>bloated</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>uncompetitive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>powerless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cruel</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ugly</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unprofitable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>humiliating</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unhealthy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unfit</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ill advised</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ruinous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>divisive</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>illegitimate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unsuspecting</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>helpless</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>shortsighted</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>irresponsible</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unsavory</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unethical</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>distasteful</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>self defeating</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>lukewarm</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unscrupulous</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>dishonest</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>immoral</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ill conceived</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>nasty</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unfortunate</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>panicky</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>shoddy</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>improper</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>unreliable</phrase>
+    <entry domain="turney">
+      <base att="orientation" value="negative"/>
+    </entry>
+  </lexeme>
+</lexicon>
