@@ -10,15 +10,19 @@
 	 <value name="affect">
 	    <!-- how do I feel? The word describes an emotion -->
 	    <value name="happiness">
+	       <!-- feeling happy or sad, and directing that at others
+	       by liking or disliking them-->
 	       <value name="cheer"/> <!-- and misery -->
 	       <value name="affection"/> <!-- and antipathy-->
 	    </value>
 	    <value name="security">
+	       <!-- peace and anxiety in relation to our environs-->
 	       <value name="surprise"/>
 	       <value name="confidence"/> <!-- and disquiet -->
 	       <value name="trust"/>
 	    </value>
 	    <value name="satisfaction">
+	       <!-- feelings of achievement in activites in which we are engaged-->
 	       <value name="pleasure"/><!-- and displeasure -->
 	       <value name="interest"/><!-- and ennui -->
 	    </value>
