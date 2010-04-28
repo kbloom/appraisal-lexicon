@@ -111,7 +111,13 @@
    </attribute>
    <attribute domain="appraisal" name="pos" type="taxonomy">
       <value name="any">
-	 <value name="verbal"/>
+	 <value name="verbal">
+	    <value name="infinitive"/> <!-- VB -->
+	    <value name="past"/> <!-- VBD -->
+	    <value name="present"/> <!-- VBP/VBZ -->
+	    <value name="past-participle"/> <!-- VBN -->
+	    <value name="present-participle"/> <!-- VBG gerunds too -->
+	 </value>
 	 <value name="nominal"/>
 	 <value name="adjectival">
 	    <value name="positive"/>
