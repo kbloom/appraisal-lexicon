@@ -115,8 +115,8 @@
 	    <value name="infinitive"/> <!-- VB -->
 	    <value name="past"/> <!-- VBD -->
 	    <value name="present"/> <!-- VBP/VBZ -->
-	    <value name="past-participle"/> <!-- VBN -->
-	    <value name="present-participle"/> <!-- VBG gerunds too -->
+	    <value name="past-part"/> <!-- VBN -->
+	    <value name="present-part"/> <!-- VBG gerunds too -->
 	 </value>
 	 <value name="nominal"/>
 	 <value name="adjectival">
