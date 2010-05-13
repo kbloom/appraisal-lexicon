@@ -1,0 +1,116 @@
+target--nsubj->attitude aspect--xcomp->attitude
+   target: extract=np
+   aspect: extract=clause
+evaluator--nsubj->attitude target--dobj->attitude
+   target: extract=np
+   evaluator: extract=np
+attitude--infmod->aspect target--dobj->attitude
+   aspect: extract=shallownp
+   target: extract=np
+evaluator--nsubj->hinge attitude--xcomp->hinge target--dobj->attitude
+   evaluator:extract=np
+   target:extract=np
+
+#this obsoletes the rule before it
+#when we start working with collapsed dep trees
+evaluator--xsubj->attitude target--dobj->attitude
+   evaluator:extract=np
+   target:extract=np
+
+evaluator--nsubj->superordinate cop--cop->superordinate attitude--rcmod->superordinate target--pobj->target_prep target_prep--prep->attitude
+   target_prep: extract=word
+   evaluator:extract=np
+   superordinate:extract=np
+   target:extract=np
+
+target--pobj->target_prep target_prep--prep->attitude 
+   target_prep: extract=word
+   target:extract=np
+
+evaluator--nsubjpass->attitude target--pobj->target_prep target_prep--prep->attitude 
+   target_prep: extract=word
+   attitude:type=affect
+   target:extract=np
+   evaluator:extract=np
+
+expressor--nsubj->attitude
+   expressor: extract=np
+   attitude: type=affect
+
+evaluator--nsubj->attitude target--xcomp->attitude
+   evaluator:extract=np
+   target:extract=clause
+   attitude: type=affect
+
+target--nsubj->attitude
+   target:extract=np
+
+target--pcomp->target_prep target_prep--prep->attitude attitude--pcomp->evaluator
+   target_prep: extract=word
+   target: extract=clause
+   attitude: type=affect
+   evaluator: extract=np
+target--pobj->target_prep target_prep--prep->attitude attitude--pcomp->evaluator
+   target_prep: extract=word
+   target: extract=np
+   attitude: type=affect
+   evaluator: extract=np
+
+target--nsubj->hinge attitude--ccomp->hinge attitude--nsubj->evaluator
+   target: extract=np
+   hinge:extract=shallowvp
+   attitude: type=affect
+   evaluator: extract=np
+
+target--nsubj->hinge attitude--xcomp->hinge
+   target:extract=np
+   hinge:extract=shallowvp
+
+evaluator--nsubjpass->attitude target--ccomp->attitude 
+   attitude:type=affect
+   target:extract=clause
+   evaluator:extract=np
+
+evaluator--nsubj->t1 attitude--partmod->t1 target--ccomp->attitude
+   evaluator: extract=np
+   attitude: type=affect
+   target: extract=clause
+
+attitude--rcmod->target
+   target:extract=np
+
+attitude--rcmod->target aspect--xcomp->attitude
+   target:extract=np
+   aspect:extract=clause
+
+attitude--amod->evaluator
+   evaluator:extract=np
+   attitude:type=affect
+
+target--nsubjpass->attitude
+   target: extract=np
+
+evaluator--poss->hinge attitude--infmod->hinge
+   hinge: extract=shallowvp
+   evaluator: extract=np
+
+evaluator--nsubj->hinge attitude--dobj->hinge target--rcmod->attitude
+   evaluator: extract=np
+   hinge: extract=shallowvp
+   target: extract=np
+   attitude: type=affect
+evaluator--nsubj->attitude
+   evaluator:extract=np
+   attitude:type=affect
+evaluator--partmod->attitude
+   evaluator:extract=np
+   attitude:type=affect
+target--nsubj->hinge attitude--xcomp->hinge evaluator--dobj->hinge
+   target: extract=np
+   evaluator: extract=np
+   hinge: extract=shallowvp
+target--nsubj->attitude target2--pobj->than than--prep->attitude
+   than: word=than
+   target: extract=np
+   target2: extract=np
+

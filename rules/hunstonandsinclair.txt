@@ -1,0 +1,210 @@
+#pattern 1:
+
+target--ccomp->attitude
+  target: extract=clause
+target--xcomp->attitude
+  target: extract=clause
+linkverb--cop->attitude target--dep->attitude
+  target: extract=clause
+
+#pattern 2:
+attitude--amod->hinge target--pobj->target_prep target_prep--prep->hinge
+  target_prep: extract=word word=(about,in)
+  target: extract=np
+  hinge: extract=shallownp word=(something,nothing,anything)
+hinge--dep->attitude target--pcomp->target_prep target_prep--prep->attitude
+  target: extract=clause
+  hinge: extract=shallownp word=(something,nothing,anything)
+  target_prep: word=(about,in) extract=word
+target--pcomp->target_prep target_prep--prep->attitude attitude--amod->hinge
+  target: extract=clause
+  hinge: extract=shallownp word=(something,nothing,anything)
+  target_prep: word=(about,in) extract=word
+
+#pattern 3(i), 3(ii)
+target--nsubj->attitude hinge--cop->attitude aspect--xcomp->attitude
+  target: extract=np
+  hinge: extract=shallowvp
+  aspect: extract=clause
+
+#pattern 3(iii)
+evaluator--nsubj->attitude hinge--cop->attitude target--xcomp->attitude
+  attitude: type=affect
+  evaluator: extract=np
+  target: extract=clause
+  hinge: extract=shallowvp
+evaluator--nsubjpass->attitude target--xcomp->attitude
+  evaluator: extract=np
+  target: extract=clause
+  attitude: type=affect
+
+#pattern 4(i)(ii)
+evaluator--nsubj->attitude hinge--cop->attitude target--ccomp->attitude
+  attitude: type=affect
+  evaluator: extract=np
+  target: extract=clause
+  hinge: extract=shallowvp
+
+#pattern 5(i)
+attitude--csubj->hinge2 aspect--ccomp->hinge2 hinge--nsubj->attitude target--pobj->target_prep target_prep--prep->attitude
+  target_prep: extract=word
+  hinge:extract=shallowvp
+  hinge2:extract=word
+  aspect:extract=clause
+  target:extract=np
+
+#pattern 5(ii)
+hinge--nsubj->attitude attitude--csubj->target hinge2--cop->target
+  hinge:extract=shallowvp
+  hinge2:extract=word
+  target:extract=np
+
+#patter 5(iii)
+hinge--dobj->verbgroup verbgroup--csubj->linkverb evaluator--nsubj->verbgroup attitude--acomp->verbgroup target--ccomp->linkverb
+  attitude: type=affect
+  target: extract=clause
+  evaluator: extract=np
+  hinge:extract=shallowvp
+
+#pattern 6(i) (I think the ''about'' constraint can be generalized)
+attitude--amod->generalnoun generalnoun--nsubj->hinge target--pobj->target_prep target_prep--prep->generalnoun aspect--ccomp->hinge
+  target_prep:word=about extract=word
+  hinge:extract=shallowvp
+  aspect:extract=clause
+  target:extract=np
+attitude--amod->generalnoun generalnoun--nsubj->hinge target--pobj->target_prep target_prep--prep->generalnoun aspect--xcomp->hinge
+  target_prep:word=about extract=word
+  hinge:extract=shallowvp
+  aspect:extract=clause
+  target:extract=np
+
+#pattern 6(ii)
+attitude--amod->generalnoun generalnoun--nsubj->hinge target--ccomp->hinge
+  hinge:extract=shallowvp
+  target:extract=np
+attitude--amod->generalnoun generalnoun--nsubj->hinge target--xcomp->hinge
+  hinge:extract=shallowvp
+  target:extract=np
+
+#Graded(i)
+target--nsubj->hinge attitude--nsubj->hinge aspect--xcomp->attitude
+  aspect: extract=clause
+  hinge: extract=shallowvp
+  target: extract=np
+#see also complementation (i)
+
+#Graded(ii)
+
+#Graded(iii)
+target--nsubj->attitude hinge--cop->attitude
+  target: extract=np
+  hinge: extract=shallowvp
+
+#Graded(iv)
+attitude--acomp->hinge target--pobj->target_prep target_prep--prep->hinge
+  hinge: extract=shallowvp
+  target: extract=np
+  target_prep: word=than extract=word
+
+attitude--dep->nothing nothing--acomp->hinge target--pobj->target_prep target_prep--prep->nothing aspect--xcomp->hinge
+  target_prep: extract=word
+  hinge: extract=shallowvp
+  target: extract=np
+  aspect: extract=clause
+
+#Graded(v)
+target--nsubj->attitude hinge--aux->attitude target2--pobj->as as--prep->attitude
+  target: extract=np
+  target2: extract=np
+  hinge:extract=shallowvp
+
+#Graded(vi)
+target--nsubj->superordinate hinge--cop->superordinate attitude--amod->gennoun gennoun--pobj->of of--prep->superordinate
+  of: word=of
+  target: extract=np
+  superordinate: extract=np
+  hinge:extract=shallowvp
+
+#Attributaive adjectives
+attitude--amod->target
+  target:extract=np
+
+#Predicative adjectives
+attitude--nsubj->target hinge--cop->target
+  target:extract=np
+  hinge:extract=shallowvp
+
+
+#Attributing evaluations
+target--nsubj->attitude hinge--cop->attitude evaluator--pobj->to to--prep->attitude
+  evaluator: extract=np
+  target: extract=np
+  hinge: extract=shallowvp
+  to: word=to
+evaluator--nsubj->hinge hinge--acomp->attitude
+  attitude: type=affect
+  evaluator: extract=np
+  hinge:extract=shallowvp
+
+#Complementation (i)
+target--nsubj->attitude hinge--cop->attitude aspect--pobj->prep prep--prep->attitude
+  target: extract=np
+  hinge: extract=shallowvp
+  aspect: extract=np
+
+#Complementation (ii)
+evaluator--nsubj->attitude hinge--cop->attitude target--pobj->target_prep target_prep--prep->attitude
+  target_prep: extract=word
+  attitude: type=affect
+  target: extract=np
+  evaluator: extract=np
+  hinge:extract=shallowvp
+
+evaluator--nsubj->hinge attitude--acomp->hinge target--pobj->target_prep target_prep--prep->attitude
+  target_prep: extract=word
+  target: extract=np
+  evaluator: extract=np
+  hinge: extract=shallowvp
+  attitude: type=affect
+
+
+#NOMINAL
+
+#Pattern i
+target--nsubjpass->hinge attitude--dobj->hinge
+  target: extract=np
+  hinge: extract=shallowvp
+#target--nsubj->attitude hinge--cop->attitude
+#  target: extract=np
+#  hinge: extract=shallowvp
+
+#Pattern ii
+target--pcomp->target_prep target_prep--prep->attitude
+  target_prep: word=of extract=word
+  target: extract=clause
+target--pobj->target_prep target_prep--prep->attitude
+  target_prep: word=of extract=word
+  target: extract=np
+
+#Pattern iii
+
+
+#Pattern iv
+target--infmod->attitude
+  target: extract=clause
+
+#Pattern v
+target--nsubj->hinge attitude--xcomp->hinge evaluator--pobj->for for--prep->attitude
+   evaluator: extract=np
+   target: extract=np
+   hinge: extract=shallowvp
+
+hinge--rcmod->evaluator target--dobj->hinge attitude--pobj->as as--prep->hinge
+  hinge: extract=shallowvp
+  as: word=as
+  attitude: extract=np
+  evaluator: extract=np
+
+attitude--dobj->hinge target--nsubj->hinge
+  target: extract=np
+  hinge: extract=shallowvp

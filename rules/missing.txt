@@ -1,0 +1,42 @@
+#rules that appear to be missing from Hunston and Sinclair
+target--nsubj->superordinate hinge--cop->superordinate attitude--amod->superordinate
+   target:extract=np
+   superordinate:extract=np
+   hinge:extract=shallowvp
+target--nsubj->hinge attitude--dep->hinge aspect--pobj->prep prep--prep->hinge
+   hinge:extract=shallowvp
+   target:extract=np
+   aspect:extract=np
+target--nsubj->hinge attitude--pobj->of of--prep->vote vote--dobj->hinge evaluator--pobj->from from--prep->hinge
+   from: word=from
+   of: word=of
+   vote: word=vote
+   target: extract=np
+   evaluator: extract=np
+evaluator--amod->attitude target--pobj->target_prep target_prep--prep->attitude
+   target_prep: extract=word
+   evaluator: extract=shallownp
+   attitude: type=affect
+   target:extract=np
+evaluator--poss->attitude target--pobj->target_prep target_prep--prep->attitude
+   target_prep: extract=word
+   evaluator: extract=shallownp
+   attitude: type=affect
+   target:extract=np
+target--nsubjpass->hinge evaluator--pobj->by by--prep->hinge attitude--dep->as as--prep->hinge
+   target:extract=np
+   hinge:extract=shallowvp
+   evaluator:extract=np
+   by:word=by
+attitude--acomp->endhinge endhinge--xcomp->hinge target--nsubj->hinge
+evaluator--nsubjpass->hinge attitude--pobj->prep prep--prep->hinge
+   evaluator:extract=np
+   hinge:extract=shallowvp
+it--nsubj->attitude hinge--cop->attitude target--xcomp->attitude
+   it: word=it
+   target: extract=clause
+   hinge: extract=shallowvp
+target--nsubj->attitude hinge--cop->attitude aspect--infmod->attitude
+   target: extract=np
+   aspect: extract=clause
+   hinge: extract=shallowvp
