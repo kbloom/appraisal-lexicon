@@ -29719,7 +29719,7 @@
     <phrase>well</phrase>
     <entry domain="appraisal">
       <constraints>
-        <pos>JJ</pos>
+        <pos>RB</pos>
       </constraints>
       <base att="attitude" value="quality"/>
       <base att="polarity" value="unmarked"/>
