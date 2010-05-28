@@ -21778,6 +21778,34 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>costlier</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>JJR</pos>
+      </constraints>
+      <base att="attitude" value="valuation"/>
+      <base att="orientation" value="negative"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="comparative"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>costly</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att="attitude" value="valuation"/>
+      <base att="orientation" value="negative"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>appropriate</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -22087,6 +22115,31 @@
   </lexeme>
   <lexeme>
     <phrase>phenomenal</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att="attitude" value="valuation"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="very high"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well priced</phrase>
+    <entry domain="appraisal">
+      <base att="attitude" value="valuation"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="very high"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>well-priced</phrase>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
@@ -23033,6 +23086,31 @@
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="high"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>cheapest</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>JJS</pos>
+      </constraints>
+      <base att="attitude" value="valuation"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="positive"/>
+    </entry>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>JJS</pos>
+      </constraints>
+      <base att="attitude" value="quality"/>
+      <base att="orientation" value="negative"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
       <base att="focus" value="median"/>
       <base att="pos" value="positive"/>
     </entry>
@@ -24572,6 +24650,56 @@
         <pos>JJ</pos>
       </constraints>
       <base att="attitude" value="complexity"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>5 star</phrase>
+    <entry domain="appraisal">
+      <base att="attitude" value="quality"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>five-star</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att="attitude" value="quality"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>five star</phrase>
+    <entry domain="appraisal">
+      <base att="attitude" value="quality"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>5-star</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att="attitude" value="quality"/>
       <base att="orientation" value="positive"/>
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
