@@ -1,0 +1,10 @@
+<metadata fileid="pretagging-schema">
+   <domain name="pretagging"/>
+
+   <attribute domain="pretagging" name="orientation" type="cline">
+      <intermediate name="positive"/>
+      <flippoint name="neutral"/>
+      <intermediate name="negative"/>
+   </attribute>
+</metadata>
+
