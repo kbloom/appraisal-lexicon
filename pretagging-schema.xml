@@ -1,10 +1,131 @@
-<metadata fileid="pretagging-schema">
+<metadata fileid="pretagging-schema" version="$Id$">
    <domain name="pretagging"/>
 
+   <attribute domain="pretagging" name="attitude" type="taxonomy">
+      <!-- allowed operatins include:
+	 generalize
+	 set
+      -->
+      <value name="attitude">
+	 <value name="affect">
+	    <!-- how do I feel? The word describes an emotion -->
+	    <value name="happiness">
+	       <!-- feeling happy or sad, and directing that at others
+	       by liking or disliking them-->
+	       <value name="cheer"/> <!-- and misery -->
+	       <value name="affection"/> <!-- and antipathy-->
+	    </value>
+	    <value name="security">
+	       <!-- peace and anxiety in relation to our environs-->
+	       <value name="surprise"/>
+	       <value name="confidence"/> <!-- and disquiet -->
+	       <value name="trust"/>
+	    </value>
+	    <value name="satisfaction">
+	       <!-- feelings of achievement in activites in which we are engaged-->
+	       <value name="pleasure"/><!-- and displeasure -->
+	       <value name="interest"/><!-- and ennui -->
+	    </value>
+	    <value name="inclination"/><!--both subtypes: fear and desire -->
+	 </value>
+	 <value name="appreciation">
+	    <value name="composition">
+	       <value name="complexity">
+		  <!-- was it hard to follow, having to do with its 
+		  number of parts? -->
+	       </value>
+	       <value name="balance">
+		  <!-- did it hang together? -->
+	       </value>
+	    </value>
+	    <value name="reaction">
+	       <value name="impact">
+		  <!-- effect on somebody interacting with 
+		  it/interacting in a context.
+		  did it grab me? -->
+	       </value>
+	       <value name="quality">
+		  <!-- how good the thing is at what it is. did I like 
+		  it? how nice is it? -->
+	       </value>
+	    </value>
+	    <value name="valuation">
+	       <!-- the importance or significance of a thing. was it 
+	       worthwhile? -->
+	    </value>
+	 </value>
+	 <value name="judgement">
+	    <value name="social-esteem">
+	       <value name="tenacity">
+		  <!-- willingness to put forth effort. how dependable? -->
+	       </value>
+	       <value name="normality">
+		  <!-- how someone fits in society. how special? -->
+	       </value>
+	       <value name="capacity">
+		  <!-- ability to get results. how capable? -->
+	       </value>
+	    </value>
+	    <value name="social-sanction">
+	       <value name="propriety">
+		  <!--nice/nasty. how far beyond reproach? -->
+	       </value>
+	       <value name="veracity">
+		  <!-- how honest? -->
+	       </value>
+	    </value>
+	 </value>
+      </value>
+   </attribute>
+   <attribute domain="pretagging" name="force" type="cline">
+      <!-- operations allowed include:
+	 minimize
+	 maximize
+	 flip (referred to in the paper as reverse and negate)
+	 increase (but not to maximum)
+	 decrease (but not to minimum)
+	 set
+      -->
+      <maximum name="max"/>
+      <intermediate name="very high"/>
+      <intermediate name="high"/>
+      <flippoint name="median"/>
+      <intermediate name="low"/>
+      <intermediate name="very low"/>
+      <minimum name="min"/>
+   </attribute>
+   <attribute domain="pretagging" name="polarity" type="cline">
+      <intermediate name="unmarked"/>
+      <flippoint name="neutral"/>
+      <intermediate name="marked"/>
+   </attribute>
    <attribute domain="pretagging" name="orientation" type="cline">
       <intermediate name="positive"/>
       <flippoint name="neutral"/>
       <intermediate name="negative"/>
+   </attribute>
+   <attribute domain="pretagging" name="focus" type="cline">
+      <intermediate name="sharp"/>
+      <flippoint name="median"/>
+      <intermediate name="soft"/>
+   </attribute>
+   <attribute domain="pretagging" name="pos" type="taxonomy">
+      <value name="any">
+	 <value name="verbal">
+	    <value name="infinitive"/> <!-- VB -->
+	    <value name="past"/> <!-- VBD -->
+	    <value name="present"/> <!-- VBP/VBZ -->
+	    <value name="past-part"/> <!-- VBN -->
+	    <value name="present-part"/> <!-- VBG gerunds too -->
+	 </value>
+	 <value name="nominal"/>
+	 <value name="adjectival">
+	    <value name="positive"/>
+	    <value name="comparative"/>
+	    <value name="superlative"/>
+	 </value>
+	 <value name="adverbial"/>
+      </value>
    </attribute>
 </metadata>
 
