@@ -20609,6 +20609,21 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>comforting</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att='attitude' value='pleasure'/>
+      <base att='orientation' value='positive'/>
+      <base att='force' value='median'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='positive'/>
+    </entry>
+  </lexeme>
+  <!--colorful-->
+  <lexeme>
     <phrase>colorful</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -21357,6 +21372,7 @@
       <base att="pos" value="positive"/>
     </entry>
   </lexeme>
+  <!--silly-->
   <lexeme>
     <phrase>silly</phrase>
     <entry domain="appraisal">

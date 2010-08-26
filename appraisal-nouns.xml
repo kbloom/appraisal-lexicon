@@ -3353,6 +3353,90 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>clashes</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>NNS</pos>
+      </constraints>
+      <base att='attitude' value='affection'/>
+      <base att='orientation' value='negative'/>
+      <base att='force' value='median'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='nominal'/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>comforts</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>NNS</pos>
+      </constraints>
+      <base att="attitude" value="pleasure"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="pos" value="nominal"/>
+    </entry>
+    </lexeme>
+  <lexeme>
+    <phrase>commitment</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>NN</pos>
+      </constraints>
+      <base att="attitude" value="tenacity"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="pos" value="nominal"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>companion</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>NN</pos>
+      </constraints>
+      <base att="attitude" value="affection"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="pos" value="nominal"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>compassion</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>NN</pos>
+      </constraints>
+      <base att="attitude" value="propriety"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="pos" value="nominal"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>competence</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>NN</pos>
+      </constraints>
+      <base att="attitude" value="capacity"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="pos" value="nominal"/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>complement</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -3366,6 +3450,7 @@
       <base att="pos" value="nominal"/>
     </entry>
   </lexeme>
+  <!--endc-->
   <lexeme>
     <phrase>completeness</phrase>
     <entry domain="appraisal">
