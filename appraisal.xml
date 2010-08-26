@@ -14561,6 +14561,20 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>distressing</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att='attitude' value='confidence'/>
+      <base att='orientation' value='negative'/>
+      <base att='force' value='high'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='positive'/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>bleak</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -18103,6 +18117,48 @@
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
       <base att="pos" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>embarrassing</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att='attitude' value='trust'/>
+      <base att='orientation' value='negative'/>
+      <base att='force' value='median'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='positive'/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enamored</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att='attitude' value='interest'/>
+      <base att='orientation' value='positive'/>
+      <base att='force' value='median'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='positive'/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>enchanted</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att='attitude' value='interest'/>
+      <base att='orientation' value='positive'/>
+      <base att='force' value='median'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='positive'/>
     </entry>
   </lexeme>
   <lexeme>

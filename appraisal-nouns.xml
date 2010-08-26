@@ -6794,6 +6794,20 @@
       <base att="polarity" value="unmarked"/>
       <base att="pos" value="nominal"/>
     </entry>
+ </lexeme>
+ <lexeme>
+    <phrase>envy</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>NN</pos>
+      </constraints>
+      <base att="attitude" value="affection"/>
+      <base att="orientation" value="negative"/>
+      <base att="force" value="median"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="nominal"/>
+    </entry>
   </lexeme>
   <lexeme>
     <phrase>enmity</phrase>
