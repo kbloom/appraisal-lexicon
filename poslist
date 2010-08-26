@@ -84,7 +84,6 @@
 "entrances": ["VBZ"], ["NNS"]
 "envy": ["VB", "VBP"], ["NN"]
 "exalted": ["VBD", "VBN"], ["NNP"]
-==DONE TO HERE==
 "excuses": ["VBZ"], ["NNS"]
 "flattering": ["VBG"], ["JJ"]
 "flop": ["VB", "VBP"], ["NN"]
@@ -120,6 +119,7 @@
 "idea": ["JJ"], ["NN", "NNP"]
 "illiterate": ["JJ"], ["NN"]
 "impoverished": ["VBD", "VBN"], ["JJ"]
+==DONE TO HERE==
 "incisive": ["JJ"], ["NN"]
 "interests": ["VBZ"], ["NNP", "NNS"]
 "intrigue": ["VB", "VBP"], ["NN"]

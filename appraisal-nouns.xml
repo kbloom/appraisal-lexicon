@@ -4963,6 +4963,20 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>hug</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>NN</pos>
+      </constraints>
+      <base att="attitude" value="affection"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="pos" value="nominal"/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>warmth</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -7399,6 +7413,20 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>flop</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>NN</pos>
+      </constraints>
+      <base att="attitude" value="quality"/>
+      <base att="orientation" value="negative"/>
+      <base att="force" value="median"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="nominal"/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>blooper</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -9086,6 +9114,20 @@
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
       <base att="pos" value="nominal"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>hankering</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>NN</pos>
+      </constraints>
+      <base att='attitude' value='inclination'/>
+      <base att='orientation' value='positive'/>
+      <base att='force' value='median'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='nominal'/>
     </entry>
   </lexeme>
   <lexeme>
@@ -13219,6 +13261,30 @@
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
       <base att="polarity" value="unmarked"/>
+      <base att="pos" value="nominal"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>fuss</phrase>
+    <entry domain="appraisal">
+      <constraints>
+	 <pos>NNS</pos> <!-- due to parser errors -->
+      </constraints>
+      <base att="attitude" value="confidence"/>
+      <base att="orientation" value="negative"/>
+      <base att="force" value="median"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="nominal"/>
+    </entry><entry domain="appraisal">
+      <constraints>
+        <pos>NN</pos>
+      </constraints>
+      <base att="attitude" value="confidence"/>
+      <base att="orientation" value="negative"/>
+      <base att="force" value="median"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="focus" value="median"/>
       <base att="pos" value="nominal"/>
     </entry>
   </lexeme>
