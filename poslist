@@ -119,7 +119,6 @@
 "idea": ["JJ"], ["NN", "NNP"]
 "illiterate": ["JJ"], ["NN"]
 "impoverished": ["VBD", "VBN"], ["JJ"]
-==DONE TO HERE==
 "incisive": ["JJ"], ["NN"]
 "interests": ["VBZ"], ["NNP", "NNS"]
 "intrigue": ["VB", "VBP"], ["NN"]
@@ -150,6 +149,7 @@
 "mock": ["VB", "VBP"], ["JJ", "NNP"]
 "model": ["JJ"], ["NN", "NNP", "VB"]
 "moronic": ["JJ"], ["NNP"]
+==DONE TO HERE==
 "nagging": ["VBG"], ["JJ", "NN"]
 "necessary": ["NN"], ["JJ"]
 "nettle": ["VB", "VBP"], ["JJ"]
