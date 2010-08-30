@@ -3396,7 +3396,7 @@
       <constraints>
         <pos>VB</pos>
       </constraints>
-      <base att="attitude" value="cheer"/>
+      <base att="attitude" value="impact"/>
       <base att="orientation" value="positive"/>
       <base att="force" value="median"/>
       <base att="polarity" value="unmarked"/>
@@ -3429,6 +3429,20 @@
       <base att="force" value="median"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
+      <base att="pos" value="infinitive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>taunt</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>VB</pos>
+      </constraints>
+      <base att="attitude" value="affection"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="orientation" value="negative"/>
+      <base att="polarity" value="unmarked"/>
       <base att="pos" value="infinitive"/>
     </entry>
   </lexeme>
@@ -4261,7 +4275,7 @@
         <pos>VB</pos>
       </constraints>
       <base att="attitude" value="complexity"/>
-      <base att="orientation" value="neutral"/>
+      <base att="orientation" value="negative"/>
       <base att="force" value="median"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
@@ -7261,6 +7275,20 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>slack</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>VB</pos>
+      </constraints>
+      <base att="attitude" value="tenacity"/>
+      <base att="orientation" value="negative"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="infinitive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>defeat</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -8455,6 +8483,20 @@
       <base att="force" value="median"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
+      <base att="pos" value="infinitive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ruin</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>VB</pos>
+      </constraints>
+      <base att="attitude" value="quality"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="orientation" value="negative"/>
+      <base att="polarity" value="unmarked"/>
       <base att="pos" value="infinitive"/>
     </entry>
   </lexeme>
