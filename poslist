@@ -177,7 +177,6 @@
 "puzzle": ["VB", "VBP"], ["NN", "NNP"]
 "puzzles": ["VBZ"], ["NNS"]
 "puzzling": ["VBG"], ["JJ"]
-==DONE TO HERE==
 "queer": ["JJ"], ["NN"]
 "rag": ["VB", "VBP"], ["NNP"]
 "ragged": ["VBD", "VBN"], ["JJ"]
@@ -204,6 +203,7 @@
 "stew": ["VB", "VBP"], ["NN", "NNP"]
 "stimulating": ["JJ"], ["NN", "VBG"]
 "stranger": ["JJR"], ["NN", "NNP"]
+==DONE TO HERE==
 "succumb": ["VB", "VBP"], ["NN"]
 "sullen": ["JJ"], ["NN"]
 "swearing": ["VBG"], ["NN"]

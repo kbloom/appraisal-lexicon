@@ -7260,6 +7260,20 @@
       <base att="pos" value="infinitive"/>
     </entry>
   </lexeme>
+   <lexeme>
+    <phrase>slack</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>VB</pos>
+      </constraints>
+      <base att="attitude" value="tenacity"/>
+      <base att="orientation" value="negative"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="infinitive"/>
+    </entry>
+  </lexeme>
   <lexeme>
     <phrase>defeat</phrase>
     <entry domain="appraisal">
@@ -8455,6 +8469,20 @@
       <base att="force" value="median"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>
+      <base att="pos" value="infinitive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>ruin</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>VB</pos>
+      </constraints>
+      <base att="attitude" value="quality"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="orientation" value="negative"/>
+      <base att="polarity" value="unmarked"/>
       <base att="pos" value="infinitive"/>
     </entry>
   </lexeme>
