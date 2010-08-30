@@ -4261,7 +4261,7 @@
         <pos>VB</pos>
       </constraints>
       <base att="attitude" value="complexity"/>
-      <base att="orientation" value="neutral"/>
+      <base att="orientation" value="negative"/>
       <base att="force" value="median"/>
       <base att="polarity" value="unmarked"/>
       <base att="focus" value="median"/>

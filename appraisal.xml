@@ -168,6 +168,20 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>puzzling</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att='attitude' value='complexity'/>
+      <base att='orientation' value='negative'/>
+      <base att='force' value='median'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='positive'/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>pure</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -3551,6 +3565,34 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>pampered</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att='attitude' value='affection'/>
+      <base att='orientation' value='positive'/>
+      <base att='force' value='median'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='positive'/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>perplexing</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att='attitude' value='complexity'/>
+      <base att='orientation' value='negative'/>
+      <base att='force' value='median'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='positive'/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>meticulously</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -4160,6 +4202,20 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>nagging</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att='attitude' value='pleasure'/>
+      <base att='orientation' value='negative'/>
+      <base att='force' value='median'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='positive'/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>natural</phrase>
     <entry domain="appraisal">
       <constraints>
@@ -4170,6 +4226,34 @@
       <base att="polarity" value="unmarked"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
+      <base att="pos" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>necessary</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att="attitude" value="valuation"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="pos" value="positive"/>
+    </entry>
+  </lexeme>
+  <lexeme>
+    <phrase>nuisance</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att="attitude" value="pleasure"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="orientation" value="negative"/>
+      <base att="polarity" value="unmarked"/>
       <base att="pos" value="positive"/>
     </entry>
   </lexeme>
@@ -7868,7 +7952,32 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>privileged</phrase>
+    <entry domain='appraisal'>
+      <constraints>
+        <pos>JJ</pos>
+      </constraints>
+      <base att='attitude' value='valuation'/>
+      <base att='orientation' value='positive'/>
+      <base att='force' value='median'/>
+      <base att='polarity' value='unmarked'/>
+      <base att='focus' value='median'/>
+      <base att='pos' value='positive'/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>powerfully</phrase>
+    <entry domain="appraisal">
+      <constraints>
+	<pos>JJ</pos> <!-- on account of parser error -->
+      </constraints>
+      <base att="attitude" value="capacity"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="adverbial"/>
+    </entry>
     <entry domain="appraisal">
       <constraints>
         <pos>RB</pos>
@@ -17056,6 +17165,17 @@
   </lexeme>
   <lexeme>
     <phrase>proportionate</phrase>
+    <entry domain="appraisal">
+      <constraints>
+	<pos>NN</pos> <!-- on account of parser error -->
+      </constraints>
+      <base att="attitude" value="balance"/>
+      <base att="orientation" value="positive"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="force" value="median"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="positive"/>
+    </entry>
     <entry domain="appraisal">
       <constraints>
         <pos>JJ</pos>
