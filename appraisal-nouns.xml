@@ -12882,6 +12882,20 @@
     </entry>
   </lexeme>
   <lexeme>
+    <phrase>thrill</phrase>
+    <entry domain="appraisal">
+      <constraints>
+        <pos>NN</pos>
+      </constraints>
+      <base att="attitude" value="impact"/>
+      <base att="orientation" value="positive"/>
+      <base att="force" value="median"/>
+      <base att="polarity" value="unmarked"/>
+      <base att="focus" value="median"/>
+      <base att="pos" value="nominal"/>
+    </entry>
+  </lexeme>
+  <lexeme>
     <phrase>pique</phrase>
     <entry domain="appraisal">
       <constraints>
