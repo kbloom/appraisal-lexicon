@@ -17,16 +17,16 @@
 	    </value>
 	    <value name="security">
 	       <!-- peace and anxiety in relation to our environs-->
-	       <value name="surprise"/>
-	       <value name="confidence"/> <!-- and disquiet -->
-	       <value name="trust"/>
+	       <value name="quiet"/> <!-- and disquiet -->
+	       <value name="trust"/> <!-- and distrust -->
 	    </value>
 	    <value name="satisfaction">
 	       <!-- feelings of achievement in activites in which we are engaged-->
 	       <value name="pleasure"/><!-- and displeasure -->
 	       <value name="interest"/><!-- and ennui -->
 	    </value>
-	    <value name="inclination"/><!--both subtypes: fear and desire -->
+	    <value name="inclination"/><!--both subtypes: desire and non-desire -->
+	    <value name="surprise"/>
 	 </value>
 	 <value name="appreciation">
 	    <value name="composition">

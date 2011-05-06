@@ -43,7 +43,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -121,7 +121,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -134,7 +134,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -147,7 +147,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -195,7 +195,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -232,7 +232,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -507,7 +507,7 @@
       <base att='pos' value='nominal'/>
     </entry>
     <entry domain='appraisal'>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -527,7 +527,7 @@
       <base att='pos' value='nominal'/>
     </entry>
     <entry domain='appraisal'>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -795,7 +795,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -958,7 +958,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -995,7 +995,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -1072,7 +1072,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -1131,7 +1131,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -1181,7 +1181,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -1242,7 +1242,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -1307,7 +1307,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -1320,7 +1320,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -1333,7 +1333,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -1483,7 +1483,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -1633,7 +1633,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -1844,7 +1844,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -1929,7 +1929,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -2005,7 +2005,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -2120,7 +2120,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -2286,7 +2286,7 @@
         <pos>NNS</pos>
         <!--TODO: not followed by "of"-->
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -2311,7 +2311,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -2450,7 +2450,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -2474,7 +2474,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -2707,7 +2707,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -2720,7 +2720,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -2854,7 +2854,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -2943,7 +2943,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -3112,7 +3112,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -3331,7 +3331,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -3459,7 +3459,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -3626,7 +3626,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -3995,7 +3995,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -4095,7 +4095,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -4167,7 +4167,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -4230,7 +4230,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -4319,7 +4319,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -4382,7 +4382,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -4467,7 +4467,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -5151,7 +5151,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -5442,7 +5442,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -5455,7 +5455,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -5468,7 +5468,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -5520,7 +5520,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -5689,7 +5689,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -5728,7 +5728,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -5741,7 +5741,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -5754,7 +5754,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -5767,7 +5767,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -5841,7 +5841,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -5865,7 +5865,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -5889,7 +5889,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -7502,7 +7502,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -7769,7 +7769,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -7819,7 +7819,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -8035,7 +8035,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -8094,7 +8094,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -8181,7 +8181,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -8205,7 +8205,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -8255,7 +8255,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -8279,7 +8279,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -8303,7 +8303,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -8611,7 +8611,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -8650,7 +8650,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -8829,7 +8829,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -8842,7 +8842,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -8855,7 +8855,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -9152,7 +9152,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -9176,7 +9176,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -9200,7 +9200,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -9224,7 +9224,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -9248,7 +9248,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -9989,7 +9989,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -10002,7 +10002,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -10184,7 +10184,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -10197,7 +10197,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -10210,7 +10210,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -10544,7 +10544,7 @@
         <pos>NNS</pos>
         <!--TODO: not followed by "of"-->
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -10570,7 +10570,7 @@
         <pos>NNS</pos>
         <!--TODO: not followed by "of"-->
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -10619,7 +10619,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -11241,7 +11241,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -11254,7 +11254,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -11267,7 +11267,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -11592,7 +11592,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -11605,7 +11605,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -11618,7 +11618,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -11631,7 +11631,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -11644,7 +11644,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -11950,7 +11950,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -11963,7 +11963,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -11976,7 +11976,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -12548,7 +12548,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -12561,7 +12561,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -12574,7 +12574,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -13120,7 +13120,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -13133,7 +13133,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='negative'/>
@@ -13960,7 +13960,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -14580,7 +14580,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -14604,7 +14604,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -14628,7 +14628,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -14652,7 +14652,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -15007,7 +15007,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -15044,7 +15044,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -15187,7 +15187,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -16657,7 +16657,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -16681,7 +16681,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -16705,7 +16705,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -16729,7 +16729,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -16753,7 +16753,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -16766,7 +16766,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>
@@ -16779,7 +16779,7 @@
       <constraints>
         <pos>NNS</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='force' value='median'/>
       <base att='focus' value='median'/>
       <base att='orientation' value='positive'/>

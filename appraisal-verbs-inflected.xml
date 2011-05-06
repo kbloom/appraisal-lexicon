@@ -186,7 +186,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -199,7 +199,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -212,7 +212,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -225,7 +225,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -238,7 +238,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -251,7 +251,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -264,7 +264,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -550,7 +550,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -563,7 +563,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -576,7 +576,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -589,7 +589,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -602,7 +602,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -615,7 +615,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -628,7 +628,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -641,7 +641,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -665,7 +665,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -689,7 +689,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -713,7 +713,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -737,7 +737,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -761,7 +761,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -785,7 +785,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -809,7 +809,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -822,7 +822,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -835,7 +835,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -848,7 +848,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -861,7 +861,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -874,7 +874,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -887,7 +887,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -900,7 +900,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -913,7 +913,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -926,7 +926,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -939,7 +939,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -952,7 +952,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -965,7 +965,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -978,7 +978,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -991,7 +991,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1004,7 +1004,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1017,7 +1017,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1030,7 +1030,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1043,7 +1043,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1056,7 +1056,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1069,7 +1069,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1264,7 +1264,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1277,7 +1277,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1290,7 +1290,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1303,7 +1303,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1316,7 +1316,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1329,7 +1329,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1342,7 +1342,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1446,7 +1446,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1459,7 +1459,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1472,7 +1472,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1485,7 +1485,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1498,7 +1498,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1511,7 +1511,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -1524,7 +1524,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -2720,7 +2720,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -2733,7 +2733,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -2746,7 +2746,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -2759,7 +2759,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -2772,7 +2772,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -2785,7 +2785,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -2798,7 +2798,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -2993,7 +2993,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3006,7 +3006,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3019,7 +3019,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3032,7 +3032,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3045,7 +3045,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3058,7 +3058,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3071,7 +3071,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3084,7 +3084,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3097,7 +3097,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3110,7 +3110,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3123,7 +3123,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3136,7 +3136,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3149,7 +3149,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -3162,7 +3162,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -5177,7 +5177,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -5190,7 +5190,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -5203,7 +5203,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -5216,7 +5216,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -5229,7 +5229,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -5242,7 +5242,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -5255,7 +5255,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6087,7 +6087,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -6100,7 +6100,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -6113,7 +6113,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -6126,7 +6126,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -6139,7 +6139,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -6152,7 +6152,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -6165,7 +6165,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -6178,7 +6178,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6191,7 +6191,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6204,7 +6204,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6217,7 +6217,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6230,7 +6230,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6243,7 +6243,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6256,7 +6256,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6633,7 +6633,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6646,7 +6646,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6659,7 +6659,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6672,7 +6672,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6685,7 +6685,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6698,7 +6698,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6711,7 +6711,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6906,7 +6906,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6919,7 +6919,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6932,7 +6932,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6945,7 +6945,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6958,7 +6958,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6971,7 +6971,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -6984,7 +6984,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -7816,7 +7816,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -7829,7 +7829,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -7842,7 +7842,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -7855,7 +7855,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -7868,7 +7868,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -7881,7 +7881,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -7894,7 +7894,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -7907,7 +7907,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -7920,7 +7920,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -7933,7 +7933,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -7946,7 +7946,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -7959,7 +7959,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -7972,7 +7972,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -7985,7 +7985,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -8180,7 +8180,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -8193,7 +8193,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -8206,7 +8206,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -8219,7 +8219,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -8232,7 +8232,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -8245,7 +8245,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -8258,7 +8258,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -8999,7 +8999,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -9012,7 +9012,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -9025,7 +9025,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -9038,7 +9038,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -9051,7 +9051,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -9064,7 +9064,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -9077,7 +9077,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -9090,7 +9090,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9103,7 +9103,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9116,7 +9116,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9129,7 +9129,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9142,7 +9142,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9155,7 +9155,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9168,7 +9168,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9636,7 +9636,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9649,7 +9649,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9662,7 +9662,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9675,7 +9675,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9688,7 +9688,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9701,7 +9701,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -9714,7 +9714,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -10011,7 +10011,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -10035,7 +10035,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -10059,7 +10059,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -10083,7 +10083,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -10107,7 +10107,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -10131,7 +10131,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -10155,7 +10155,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -11323,7 +11323,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -11336,7 +11336,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -11349,7 +11349,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -11362,7 +11362,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -11375,7 +11375,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -11388,7 +11388,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -11401,7 +11401,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12142,7 +12142,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12155,7 +12155,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12168,7 +12168,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12181,7 +12181,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12194,7 +12194,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12207,7 +12207,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12220,7 +12220,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12324,7 +12324,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12348,7 +12348,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12372,7 +12372,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12396,7 +12396,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12420,7 +12420,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12444,7 +12444,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12468,7 +12468,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12492,7 +12492,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12505,7 +12505,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12518,7 +12518,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12531,7 +12531,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12544,7 +12544,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12557,7 +12557,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12570,7 +12570,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12947,7 +12947,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12960,7 +12960,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12973,7 +12973,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12986,7 +12986,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -12999,7 +12999,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -13012,7 +13012,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -13025,7 +13025,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -13661,7 +13661,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -13674,7 +13674,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -13687,7 +13687,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -13700,7 +13700,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -13713,7 +13713,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -13726,7 +13726,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -13739,7 +13739,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14025,7 +14025,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14038,7 +14038,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14051,7 +14051,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14064,7 +14064,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14077,7 +14077,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14090,7 +14090,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14103,7 +14103,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14127,7 +14127,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14151,7 +14151,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14175,7 +14175,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14199,7 +14199,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14223,7 +14223,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14247,7 +14247,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14271,7 +14271,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14557,7 +14557,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14570,7 +14570,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14583,7 +14583,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14596,7 +14596,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14609,7 +14609,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14622,7 +14622,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -14635,7 +14635,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -15376,7 +15376,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -15389,7 +15389,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -15402,7 +15402,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -15415,7 +15415,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -15428,7 +15428,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -15441,7 +15441,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -15454,7 +15454,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -15908,7 +15908,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -15921,7 +15921,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -15934,7 +15934,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -15947,7 +15947,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -15960,7 +15960,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -15973,7 +15973,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -15986,7 +15986,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -16090,7 +16090,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -16103,7 +16103,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -16116,7 +16116,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -16129,7 +16129,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -16142,7 +16142,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -16155,7 +16155,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -16168,7 +16168,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -17364,7 +17364,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -17377,7 +17377,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -17390,7 +17390,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -17403,7 +17403,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -17416,7 +17416,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -17429,7 +17429,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -17442,7 +17442,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -17728,7 +17728,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -17741,7 +17741,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -17754,7 +17754,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -17767,7 +17767,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -17780,7 +17780,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -17793,7 +17793,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -17806,7 +17806,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -18169,7 +18169,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18182,7 +18182,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18195,7 +18195,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18208,7 +18208,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18221,7 +18221,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18234,7 +18234,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18247,7 +18247,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18897,7 +18897,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18910,7 +18910,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18923,7 +18923,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18936,7 +18936,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18949,7 +18949,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18962,7 +18962,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -18975,7 +18975,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19443,7 +19443,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19456,7 +19456,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19469,7 +19469,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19482,7 +19482,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19495,7 +19495,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19508,7 +19508,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19521,7 +19521,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19716,7 +19716,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19729,7 +19729,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19742,7 +19742,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19755,7 +19755,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19768,7 +19768,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19781,7 +19781,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -19794,7 +19794,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -22082,7 +22082,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -22095,7 +22095,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -22108,7 +22108,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -22121,7 +22121,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -22134,7 +22134,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -22147,7 +22147,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -22160,7 +22160,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -22992,7 +22992,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -23005,7 +23005,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -23018,7 +23018,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -23031,7 +23031,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -23044,7 +23044,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -23057,7 +23057,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -23070,7 +23070,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25057,7 +25057,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25070,7 +25070,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25083,7 +25083,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25096,7 +25096,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25109,7 +25109,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25122,7 +25122,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25135,7 +25135,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25330,7 +25330,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -25343,7 +25343,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -25356,7 +25356,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -25369,7 +25369,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -25382,7 +25382,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -25395,7 +25395,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -25408,7 +25408,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='low'/>
       <base att='polarity' value='unmarked'/>
@@ -25421,7 +25421,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25434,7 +25434,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25447,7 +25447,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25460,7 +25460,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25473,7 +25473,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25486,7 +25486,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25499,7 +25499,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -25603,7 +25603,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -25616,7 +25616,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -25629,7 +25629,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -25642,7 +25642,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -25655,7 +25655,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -25668,7 +25668,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -25681,7 +25681,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='high'/>
       <base att='polarity' value='unmarked'/>
@@ -26240,7 +26240,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26253,7 +26253,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26266,7 +26266,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26279,7 +26279,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26292,7 +26292,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26305,7 +26305,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26318,7 +26318,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26513,7 +26513,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26526,7 +26526,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26539,7 +26539,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26552,7 +26552,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26565,7 +26565,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26578,7 +26578,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -26591,7 +26591,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -27423,7 +27423,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -27436,7 +27436,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -27449,7 +27449,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -27462,7 +27462,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -27475,7 +27475,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -27488,7 +27488,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -27501,7 +27501,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28151,7 +28151,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28164,7 +28164,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28177,7 +28177,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28190,7 +28190,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28203,7 +28203,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28216,7 +28216,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28229,7 +28229,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28242,7 +28242,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28255,7 +28255,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28268,7 +28268,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28281,7 +28281,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28294,7 +28294,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28307,7 +28307,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28320,7 +28320,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28606,7 +28606,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28619,7 +28619,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28632,7 +28632,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28645,7 +28645,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28658,7 +28658,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28671,7 +28671,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28684,7 +28684,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28970,7 +28970,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28983,7 +28983,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -28996,7 +28996,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -29009,7 +29009,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -29022,7 +29022,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -29035,7 +29035,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -29048,7 +29048,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -29425,7 +29425,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -29438,7 +29438,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -29451,7 +29451,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -29464,7 +29464,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -29477,7 +29477,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -29490,7 +29490,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -29503,7 +29503,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -30958,7 +30958,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -30971,7 +30971,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -30984,7 +30984,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -30997,7 +30997,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -31010,7 +31010,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -31023,7 +31023,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -31036,7 +31036,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -31840,7 +31840,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -31853,7 +31853,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -31866,7 +31866,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -31879,7 +31879,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -31892,7 +31892,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -31905,7 +31905,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -31918,7 +31918,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -32135,7 +32135,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -32170,7 +32170,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -32205,7 +32205,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -32240,7 +32240,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -32275,7 +32275,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -32310,7 +32310,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -32345,7 +32345,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33254,7 +33254,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33267,7 +33267,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33280,7 +33280,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33293,7 +33293,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33306,7 +33306,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33319,7 +33319,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33332,7 +33332,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33681,7 +33681,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33694,7 +33694,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33707,7 +33707,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33720,7 +33720,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33733,7 +33733,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33746,7 +33746,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -33759,7 +33759,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -34304,7 +34304,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -34328,7 +34328,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -34352,7 +34352,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -34376,7 +34376,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -34400,7 +34400,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -34424,7 +34424,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -34448,7 +34448,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -35004,7 +35004,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -35017,7 +35017,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -35030,7 +35030,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -35043,7 +35043,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -35056,7 +35056,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -35069,7 +35069,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -35082,7 +35082,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -36628,7 +36628,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -36652,7 +36652,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -36676,7 +36676,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -36700,7 +36700,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -36724,7 +36724,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -36748,7 +36748,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -36772,7 +36772,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -37888,7 +37888,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -37901,7 +37901,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -37914,7 +37914,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -37927,7 +37927,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -37940,7 +37940,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -37953,7 +37953,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -37966,7 +37966,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='positive'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -55318,7 +55318,7 @@
       <constraints>
         <pos>VBD</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -55331,7 +55331,7 @@
       <constraints>
         <pos>VBZ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -55344,7 +55344,7 @@
       <constraints>
         <pos>VBG</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -55357,7 +55357,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -55370,7 +55370,7 @@
       <constraints>
         <pos>VBP</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -55383,7 +55383,7 @@
       <constraints>
         <pos>VBN</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
@@ -55396,7 +55396,7 @@
       <constraints>
         <pos>JJ</pos>
       </constraints>
-      <base att='attitude' value='confidence'/>
+      <base att='attitude' value='quiet'/>
       <base att='orientation' value='negative'/>
       <base att='force' value='median'/>
       <base att='polarity' value='unmarked'/>
