@@ -1797,51 +1797,7 @@
       <constraints>
         <pos>NN</pos>
       </constraints>
-      <base att="attitude" value="normality"/>
-      <base att="force" value="median"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="pos" value="nominal"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>NN</pos>
-      </constraints>
       <base att="attitude" value="valuation"/>
-      <base att="force" value="median"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="pos" value="nominal"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>NN</pos>
-      </constraints>
-      <base att="attitude" value="quiet"/>
-      <base att="force" value="median"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="pos" value="nominal"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>NN</pos>
-      </constraints>
-      <base att="attitude" value="tenacity"/>
-      <base att="force" value="median"/>
-      <base att="focus" value="median"/>
-      <base att="orientation" value="negative"/>
-      <base att="polarity" value="unmarked"/>
-      <base att="pos" value="nominal"/>
-    </entry>
-    <entry domain="appraisal">
-      <constraints>
-        <pos>NN</pos>
-      </constraints>
-      <base att="attitude" value="capacity"/>
       <base att="force" value="median"/>
       <base att="focus" value="median"/>
       <base att="orientation" value="negative"/>
