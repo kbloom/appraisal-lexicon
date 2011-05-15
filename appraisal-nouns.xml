@@ -8288,7 +8288,7 @@
     <phrase>arguing</phrase>
     <entry domain="appraisal">
       <constraints>
-        <pos>VBJ</pos>
+        <pos>VBG</pos>
       </constraints>
       <base att="attitude" value="propriety"/>
       <base att="force" value="median"/>
