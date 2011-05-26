@@ -1,0 +1,10 @@
+<metadata fileid="sentiwordnet-schema">
+   <domain name="sentiwordnet"/>
+
+   <attribute domain="sentiwordnet" name="orientation" type="cline">
+      <intermediate name="positive"/>
+      <flippoint name="neutral"/>
+      <intermediate name="negative"/>
+   </attribute>
+</metadata>
+
